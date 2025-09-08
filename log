@@ -1,0 +1,1433 @@
+2024-07-21 15:44:01 info: Certificates loaded successfully.
+2024-07-21 15:44:01 info: Server running on port 3000
+2024-07-21 15:45:39 error: Token verification error jwt expired
+2024-07-21 15:46:30 warn: Access Denied. No token provided.
+2024-07-21 15:47:23 info: Token decoded successfully: {"UserName":"Aditya","iat":1721556880,"exp":1721643280}
+2024-07-21 16:40:16 info: Certificates loaded successfully.
+2024-07-21 16:40:16 info: Server running on port 3000
+2024-07-21 16:42:01 info: Certificates loaded successfully.
+2024-07-21 16:42:01 info: Server running on port 3000
+2024-07-22 13:11:16 info: Certificates loaded successfully.
+2024-07-22 13:11:16 info: Server running on port 3000
+2024-07-22 13:15:50 info: Certificates loaded successfully.
+2024-07-22 13:15:50 info: Server running on port 3000
+2024-07-22 13:15:55 error: Token verification error jwt expired
+2024-07-22 13:16:30 info: Token decoded successfully: {"UserName":"Aditya","iat":1721634364,"exp":1721720764}
+2024-07-24 12:25:15 info: Certificates loaded successfully.
+2024-07-24 12:25:15 info: Server running on port 3000
+2024-07-24 12:26:54 info: Token decoded successfully: {"UserName":"Aditya","iat":1721804158,"exp":1721890558}
+2024-07-24 12:28:15 info: Certificates loaded successfully.
+2024-07-24 12:28:15 info: Server running on port 3000
+2024-07-24 12:28:19 info: Token decoded successfully: {"UserName":"Aditya","iat":1721804158,"exp":1721890558}
+2024-07-24 12:34:23 info: Certificates loaded successfully.
+2024-07-24 12:34:23 info: Server running on port 3000
+2024-07-24 12:34:27 info: Token decoded successfully: {"UserName":"Aditya","iat":1721804158,"exp":1721890558}
+2024-07-24 12:38:53 info: Certificates loaded successfully.
+2024-07-24 12:38:53 info: Server running on port 3000
+2024-07-24 12:39:24 info: Token decoded successfully: {"UserName":"Aditya","iat":1721804158,"exp":1721890558}
+2024-07-24 12:41:39 info: Token decoded successfully: {"UserName":"Aditya","iat":1721804158,"exp":1721890558}
+2024-07-24 12:46:39 info: Certificates loaded successfully.
+2024-07-24 12:46:40 info: Server running on port 3000
+2024-07-24 12:46:43 info: Token decoded successfully: {"UserName":"Aditya","iat":1721804158,"exp":1721890558}
+2024-07-24 14:18:06 info: Certificates loaded successfully.
+2024-07-24 14:18:06 info: Server running on port 3000
+2024-07-24 15:16:30 info: Certificates loaded successfully.
+2024-07-24 15:16:30 info: Server running on port 3000
+2024-07-25 15:18:35 info: Certificates loaded successfully.
+2024-07-25 15:18:35 info: Server running on port 3000
+2024-07-25 15:19:34 info: Token decoded successfully: {"UserName":"Aditya","iat":1721892840,"exp":1721979240}
+2024-07-25 15:19:59 info: Token decoded successfully: {"UserName":"Aditya","iat":1721892840,"exp":1721979240}
+2024-07-25 15:20:33 info: Certificates loaded successfully.
+2024-07-25 15:20:33 info: Server running on port 3000
+2024-07-25 15:21:27 info: Token decoded successfully: {"UserName":"Aditya","iat":1721892840,"exp":1721979240}
+2024-07-25 15:21:48 info: Certificates loaded successfully.
+2024-07-25 15:21:48 info: Server running on port 3000
+2024-07-25 15:22:02 info: Token decoded successfully: {"UserName":"Aditya","iat":1721892840,"exp":1721979240}
+2024-07-25 16:00:09 info: Certificates loaded successfully.
+2024-07-25 16:00:09 info: Server running on port 3000
+2024-07-25 16:00:41 info: Token decoded successfully: {"UserName":"Aditya","iat":1721892840,"exp":1721979240}
+2024-07-25 16:13:46 info: Certificates loaded successfully.
+2024-07-25 16:13:46 info: Server running on port 3000
+2024-07-25 16:13:51 info: Token decoded successfully: {"UserName":"Aditya","iat":1721892840,"exp":1721979240}
+2024-07-25 16:14:51 info: Token decoded successfully: {"UserName":"Aditya","iat":1721892840,"exp":1721979240}
+2024-07-25 16:15:34 info: Token decoded successfully: {"UserName":"Aditya","iat":1721892840,"exp":1721979240}
+2024-07-25 16:30:45 info: Certificates loaded successfully.
+2024-07-25 16:30:45 info: Server running on port 3000
+2024-07-25 16:30:50 info: Token decoded successfully: {"UserName":"Aditya","iat":1721892840,"exp":1721979240}
+2024-07-25 16:47:18 info: Certificates loaded successfully.
+2024-07-25 16:47:18 info: Server running on port 3000
+2024-07-25 16:47:23 info: Token decoded successfully: {"UserName":"Aditya","iat":1721892840,"exp":1721979240}
+2024-07-25 16:54:24 info: Certificates loaded successfully.
+2024-07-25 16:54:24 info: Server running on port 3000
+2024-07-25 16:54:29 info: Token decoded successfully: {"UserName":"Aditya","iat":1721892840,"exp":1721979240}
+2024-07-25 16:59:09 info: Certificates loaded successfully.
+2024-07-25 16:59:09 info: Server running on port 3000
+2024-07-25 16:59:13 info: Token decoded successfully: {"UserName":"Aditya","iat":1721892840,"exp":1721979240}
+2024-07-25 17:02:42 info: Certificates loaded successfully.
+2024-07-25 17:02:42 info: Server running on port 3000
+2024-07-25 17:02:45 info: Token decoded successfully: {"UserName":"Aditya","iat":1721892840,"exp":1721979240}
+2024-07-25 17:09:55 info: Certificates loaded successfully.
+2024-07-25 17:09:55 info: Server running on port 3000
+2024-07-25 17:10:01 info: Token decoded successfully: {"UserName":"Aditya","iat":1721892840,"exp":1721979240}
+2024-07-25 17:34:39 info: Token decoded successfully: {"UserName":"Aditya","iat":1721892840,"exp":1721979240}
+2024-07-25 17:34:57 info: Token decoded successfully: {"UserName":"Aditya","iat":1721892840,"exp":1721979240}
+2024-07-25 17:41:45 info: Certificates loaded successfully.
+2024-07-25 17:41:46 info: Server running on port 3000
+2024-07-25 17:41:53 info: Token decoded successfully: {"UserName":"Aditya","iat":1721892840,"exp":1721979240}
+2024-07-25 17:42:22 info: Token decoded successfully: {"UserName":"Aditya","iat":1721892840,"exp":1721979240}
+2024-07-25 17:43:41 info: Certificates loaded successfully.
+2024-07-25 17:43:41 info: Server running on port 3000
+2024-07-25 17:43:47 info: Token decoded successfully: {"UserName":"Aditya","iat":1721892840,"exp":1721979240}
+2024-07-25 17:44:56 info: Certificates loaded successfully.
+2024-07-25 17:44:57 info: Server running on port 3000
+2024-07-25 17:45:02 info: Token decoded successfully: {"UserName":"Aditya","iat":1721892840,"exp":1721979240}
+2024-07-25 17:45:53 info: Token decoded successfully: {"UserName":"Aditya","iat":1721892840,"exp":1721979240}
+2024-07-25 17:46:56 info: Certificates loaded successfully.
+2024-07-25 17:46:56 info: Server running on port 3000
+2024-07-25 17:51:04 info: Token decoded successfully: {"UserName":"Aditya","iat":1721892840,"exp":1721979240}
+2024-07-25 18:01:02 info: Token decoded successfully: {"UserName":"Aditya","iat":1721892840,"exp":1721979240}
+2024-07-25 18:12:28 info: Certificates loaded successfully.
+2024-07-25 18:12:28 info: Server running on port 3000
+2024-07-25 18:12:32 info: Token decoded successfully: {"UserName":"Aditya","iat":1721892840,"exp":1721979240}
+2024-07-25 18:12:47 info: Token decoded successfully: {"UserName":"Aditya","iat":1721892840,"exp":1721979240}
+2024-07-25 18:17:44 info: Token decoded successfully: {"UserName":"Aditya","iat":1721892840,"exp":1721979240}
+2024-07-25 18:25:06 info: Certificates loaded successfully.
+2024-07-25 18:25:06 info: Server running on port 3000
+2024-07-25 18:25:11 info: Token decoded successfully: {"UserName":"Aditya","iat":1721892840,"exp":1721979240}
+2024-07-25 18:25:54 info: Token decoded successfully: {"UserName":"Aditya","iat":1721892840,"exp":1721979240}
+2024-07-25 18:26:29 info: Token decoded successfully: {"UserName":"Aditya","iat":1721892840,"exp":1721979240}
+2024-07-25 18:35:43 info: Certificates loaded successfully.
+2024-07-25 18:35:43 info: Server running on port 3000
+2024-07-25 18:35:47 info: Token decoded successfully: {"UserName":"Aditya","iat":1721892840,"exp":1721979240}
+2024-07-25 18:44:25 info: Certificates loaded successfully.
+2024-07-25 18:44:25 info: Server running on port 3000
+2024-07-25 18:44:41 info: Token decoded successfully: {"UserName":"Aditya","iat":1721892840,"exp":1721979240}
+2024-07-25 18:46:22 info: Certificates loaded successfully.
+2024-07-25 18:46:22 info: Server running on port 3000
+2024-07-25 18:46:27 info: Token decoded successfully: {"UserName":"Aditya","iat":1721892840,"exp":1721979240}
+2024-07-25 18:52:07 info: Certificates loaded successfully.
+2024-07-25 18:52:07 info: Server running on port 3000
+2024-07-25 18:52:12 info: Token decoded successfully: {"UserName":"Aditya","iat":1721892840,"exp":1721979240}
+2024-07-25 18:54:38 info: Certificates loaded successfully.
+2024-07-25 18:54:38 info: Server running on port 3000
+2024-07-25 18:54:45 info: Token decoded successfully: {"UserName":"Aditya","iat":1721892840,"exp":1721979240}
+2024-07-25 19:20:16 info: Certificates loaded successfully.
+2024-07-25 19:20:16 info: Server running on port 3000
+2024-07-25 19:20:31 info: Token decoded successfully: {"UserName":"Aditya","iat":1721892840,"exp":1721979240}
+2024-07-25 19:26:28 info: Certificates loaded successfully.
+2024-07-25 19:26:28 info: Server running on port 3000
+2024-07-25 19:26:48 info: Token decoded successfully: {"UserName":"Aditya","iat":1721892840,"exp":1721979240}
+2024-07-25 19:27:12 info: Token decoded successfully: {"UserName":"Aditya","iat":1721892840,"exp":1721979240}
+2024-07-26 17:28:09 info: Token decoded successfully: {"UserName":"Aditya","iat":1721995052,"exp":1722081452}
+2024-07-26 20:41:27 info: Certificates loaded successfully.
+2024-07-26 20:41:27 info: Server running on port 3000
+2024-07-26 20:41:48 info: Token decoded successfully: {"UserName":"Aditya","iat":1722006677,"exp":1722093077}
+2024-07-26 20:53:17 info: Token decoded successfully: {"UserName":"Aditya","iat":1722006677,"exp":1722093077}
+2024-07-26 20:53:28 info: Token decoded successfully: {"UserName":"Aditya","iat":1722006677,"exp":1722093077}
+2024-08-02 12:46:47 info: Certificates loaded successfully.
+2024-08-02 12:46:47 info: Server running on port 3000
+2024-08-02 12:49:16 info: Token decoded successfully: {"UserName":"Aditya","iat":1722583090,"exp":1722669490}
+2024-08-02 12:51:04 info: Certificates loaded successfully.
+2024-08-02 12:51:04 info: Server running on port 3000
+2024-08-02 12:51:09 info: Token decoded successfully: {"UserName":"Aditya","iat":1722583090,"exp":1722669490}
+2024-08-02 12:51:51 info: Certificates loaded successfully.
+2024-08-02 12:51:51 info: Server running on port 3000
+2024-08-02 12:51:55 info: Token decoded successfully: {"UserName":"Aditya","iat":1722583090,"exp":1722669490}
+2024-08-02 12:54:44 info: Certificates loaded successfully.
+2024-08-02 12:54:44 info: Server running on port 3000
+2024-08-02 12:54:47 info: Token decoded successfully: {"UserName":"Aditya","iat":1722583090,"exp":1722669490}
+2024-08-02 12:56:49 info: Certificates loaded successfully.
+2024-08-02 12:56:49 info: Server running on port 3000
+2024-08-02 12:56:54 info: Token decoded successfully: {"UserName":"Aditya","iat":1722583090,"exp":1722669490}
+2024-08-02 13:05:01 info: Certificates loaded successfully.
+2024-08-02 13:05:01 info: Server running on port 3000
+2024-08-02 13:05:08 info: Token decoded successfully: {"UserName":"Aditya","iat":1722583090,"exp":1722669490}
+2024-08-02 13:10:43 info: Certificates loaded successfully.
+2024-08-02 13:10:43 info: Server running on port 3000
+2024-08-02 13:10:51 info: Token decoded successfully: {"UserName":"Aditya","iat":1722583090,"exp":1722669490}
+2024-08-02 13:11:32 info: Certificates loaded successfully.
+2024-08-02 13:11:32 info: Server running on port 3000
+2024-08-02 13:11:34 info: Token decoded successfully: {"UserName":"Aditya","iat":1722583090,"exp":1722669490}
+2024-08-02 13:15:39 info: Certificates loaded successfully.
+2024-08-02 13:15:39 info: Server running on port 3000
+2024-08-02 13:16:15 info: Token decoded successfully: {"UserName":"Aditya","iat":1722583090,"exp":1722669490}
+2024-08-02 13:21:24 info: Certificates loaded successfully.
+2024-08-02 13:21:24 info: Server running on port 3000
+2024-08-02 13:26:18 info: Certificates loaded successfully.
+2024-08-02 13:26:18 info: Server running on port 3000
+2024-08-02 13:26:23 info: Token decoded successfully: {"UserName":"Aditya","iat":1722583090,"exp":1722669490}
+2024-08-02 13:28:34 info: Certificates loaded successfully.
+2024-08-02 13:28:34 info: Server running on port 3000
+2024-08-02 13:28:38 info: Token decoded successfully: {"UserName":"Aditya","iat":1722583090,"exp":1722669490}
+2024-08-21 16:06:50 info: Certificates loaded successfully.
+2024-08-21 16:06:51 info: Server running on port 3000
+2024-08-21 16:09:07 info: Token decoded successfully: {"UserName":"Aditya","iat":1724236739,"exp":1724323139}
+2024-08-21 16:11:47 info: Token decoded successfully: {"UserName":"Aditya","iat":1724236739,"exp":1724323139}
+2024-08-21 16:25:26 info: Token decoded successfully: {"UserName":"Aditya","iat":1724236739,"exp":1724323139}
+2024-08-21 16:28:05 info: Token decoded successfully: {"UserName":"Aditya","iat":1724236739,"exp":1724323139}
+2024-08-21 16:29:00 info: Certificates loaded successfully.
+2024-08-21 16:29:00 info: Server running on port 3000
+2024-08-21 16:29:05 info: Token decoded successfully: {"UserName":"Aditya","iat":1724236739,"exp":1724323139}
+2024-08-21 16:29:32 info: Token decoded successfully: {"UserName":"Aditya","iat":1724236739,"exp":1724323139}
+2024-08-21 16:31:48 info: Certificates loaded successfully.
+2024-08-21 16:31:48 info: Server running on port 3000
+2024-08-21 16:32:03 info: Token decoded successfully: {"UserName":"Aditya","iat":1724236739,"exp":1724323139}
+2024-08-21 16:32:42 info: Certificates loaded successfully.
+2024-08-21 16:32:42 info: Server running on port 3000
+2024-08-21 16:32:48 info: Token decoded successfully: {"UserName":"Aditya","iat":1724236739,"exp":1724323139}
+2024-08-21 16:41:45 info: Certificates loaded successfully.
+2024-08-21 16:41:45 info: Server running on port 3000
+2024-08-21 16:41:52 info: Token decoded successfully: {"UserName":"Aditya","iat":1724236739,"exp":1724323139}
+2024-08-21 16:42:53 info: Certificates loaded successfully.
+2024-08-21 16:42:53 info: Server running on port 3000
+2024-08-21 16:42:58 info: Token decoded successfully: {"UserName":"Aditya","iat":1724236739,"exp":1724323139}
+2024-08-21 16:45:53 info: Certificates loaded successfully.
+2024-08-21 16:45:53 info: Server running on port 3000
+2024-08-21 16:46:06 info: Token decoded successfully: {"UserName":"Aditya","iat":1724236739,"exp":1724323139}
+2024-08-21 16:49:28 info: Certificates loaded successfully.
+2024-08-21 16:49:28 info: Server running on port 3000
+2024-08-21 16:51:37 info: Token decoded successfully: {"UserName":"Aditya","iat":1724236739,"exp":1724323139}
+2024-08-21 17:01:33 info: Certificates loaded successfully.
+2024-08-21 17:01:33 info: Server running on port 3000
+2024-08-21 17:02:11 info: Token decoded successfully: {"UserName":"Aditya","iat":1724236739,"exp":1724323139}
+2024-08-21 17:03:34 info: Token decoded successfully: {"UserName":"Aditya","iat":1724236739,"exp":1724323139}
+2024-08-21 17:03:38 info: Token decoded successfully: {"UserName":"Aditya","iat":1724236739,"exp":1724323139}
+2024-08-21 17:04:59 info: Token decoded successfully: {"UserName":"Aditya","iat":1724236739,"exp":1724323139}
+2024-08-21 17:05:52 info: Certificates loaded successfully.
+2024-08-21 17:05:52 info: Server running on port 3000
+2024-08-21 17:05:56 info: Token decoded successfully: {"UserName":"Aditya","iat":1724236739,"exp":1724323139}
+2024-08-21 17:06:33 info: Token decoded successfully: {"UserName":"Aditya","iat":1724236739,"exp":1724323139}
+2024-08-21 17:07:09 info: Token decoded successfully: {"UserName":"Aditya","iat":1724236739,"exp":1724323139}
+2024-08-21 17:07:14 info: Token decoded successfully: {"UserName":"Aditya","iat":1724236739,"exp":1724323139}
+2024-08-21 17:08:02 info: Token decoded successfully: {"UserName":"Aditya","iat":1724236739,"exp":1724323139}
+2024-08-21 17:08:06 info: Token decoded successfully: {"UserName":"Aditya","iat":1724236739,"exp":1724323139}
+2024-08-21 17:08:10 info: Token decoded successfully: {"UserName":"Aditya","iat":1724236739,"exp":1724323139}
+2024-08-21 17:08:25 info: Token decoded successfully: {"UserName":"Aditya","iat":1724236739,"exp":1724323139}
+2024-08-21 17:09:12 info: Token decoded successfully: {"UserName":"Aditya","iat":1724236739,"exp":1724323139}
+2024-08-21 17:09:39 info: Token decoded successfully: {"UserName":"Aditya","iat":1724236739,"exp":1724323139}
+2024-08-21 17:13:13 info: Certificates loaded successfully.
+2024-08-21 17:13:13 info: Server running on port 3000
+2024-08-21 17:13:24 info: Token decoded successfully: {"UserName":"Aditya","iat":1724236739,"exp":1724323139}
+2024-08-21 17:13:33 info: Token decoded successfully: {"UserName":"Aditya","iat":1724236739,"exp":1724323139}
+2024-08-21 17:13:40 info: Token decoded successfully: {"UserName":"Aditya","iat":1724236739,"exp":1724323139}
+2024-08-21 17:13:50 info: Token decoded successfully: {"UserName":"Aditya","iat":1724236739,"exp":1724323139}
+2024-08-21 17:13:55 info: Token decoded successfully: {"UserName":"Aditya","iat":1724236739,"exp":1724323139}
+2024-08-21 17:14:22 info: Token decoded successfully: {"UserName":"Aditya","iat":1724236739,"exp":1724323139}
+2024-09-02 14:59:57 info: Certificates loaded successfully.
+2024-09-02 14:59:57 info: Server running on port 3000
+2024-09-02 15:00:26 info: Token decoded successfully: {"UserName":"Aditya","iat":1725263410,"exp":1725349810}
+2024-09-02 15:00:48 info: Token decoded successfully: {"UserName":"Aditya","iat":1725263410,"exp":1725349810}
+2024-09-02 16:41:40 info: Certificates loaded successfully.
+2024-09-02 16:41:40 info: Server running on port 3000
+2024-09-02 16:54:09 info: Certificates loaded successfully.
+2024-09-02 16:54:09 info: Server running on port 3000
+2024-09-04 21:46:02 info: Certificates loaded successfully.
+2024-09-04 21:46:02 info: Server running on port 3000
+2024-09-04 22:07:27 info: Certificates loaded successfully.
+2024-09-04 22:07:28 info: Server running on port 3000
+2024-09-04 23:00:39 info: Certificates loaded successfully.
+2024-09-04 23:00:39 info: Server running on port 3000
+2024-09-12 07:11:01 info: Certificates loaded successfully.
+2024-09-12 07:11:01 info: Server running on port 3000
+2024-09-12 08:46:41 info: Certificates loaded successfully.
+2024-09-12 08:46:41 info: Server running on port 3000
+2024-09-13 09:45:53 info: Certificates loaded successfully.
+2024-09-13 09:45:53 info: Server running on port 3000
+2024-09-14 14:18:25 info: Certificates loaded successfully.
+2024-09-14 14:18:25 info: Server running on port 3000
+2024-09-14 14:18:40 info: Token decoded successfully: {"UserName":"Aditya","iat":1726303126,"exp":1726389526}
+2024-09-14 14:24:04 info: Certificates loaded successfully.
+2024-09-14 14:24:04 info: Server running on port 3000
+2024-09-14 14:24:10 info: Token decoded successfully: {"UserName":"Aditya","iat":1726303126,"exp":1726389526}
+2024-09-14 14:26:27 info: Certificates loaded successfully.
+2024-09-14 14:26:27 info: Server running on port 3000
+2024-09-14 14:27:02 info: Token decoded successfully: {"UserName":"Aditya","iat":1726303126,"exp":1726389526}
+2024-09-14 14:46:43 info: Certificates loaded successfully.
+2024-09-14 14:46:43 info: Server running on port 3000
+2024-09-14 14:46:47 info: Token decoded successfully: {"UserName":"Aditya","iat":1726303126,"exp":1726389526}
+2024-09-20 11:34:03 info: Certificates loaded successfully.
+2024-09-20 11:34:03 info: Server running on port 3000
+2024-09-20 11:34:19 info: Token decoded successfully: {"UserName":"Aditya","iat":1726811995,"exp":1726898395}
+2024-09-20 11:34:55 info: Token decoded successfully: {"UserName":"Aditya","iat":1726811995,"exp":1726898395}
+2024-09-20 11:35:27 info: Token decoded successfully: {"UserName":"Aditya","iat":1726811995,"exp":1726898395}
+2024-09-20 11:35:36 info: Token decoded successfully: {"UserName":"Aditya","iat":1726811995,"exp":1726898395}
+2024-09-20 11:38:25 info: Token decoded successfully: {"UserName":"Aditya","iat":1726811995,"exp":1726898395}
+2024-09-20 12:44:39 info: Certificates loaded successfully.
+2024-09-20 12:44:39 info: Server running on port 3000
+2024-09-20 12:44:45 info: Token decoded successfully: {"UserName":"Aditya","iat":1726811995,"exp":1726898395}
+2024-09-20 12:48:18 info: Token decoded successfully: {"UserName":"Aditya","iat":1726811995,"exp":1726898395}
+2024-09-20 12:48:41 info: Token decoded successfully: {"UserName":"Aditya","iat":1726811995,"exp":1726898395}
+2024-09-20 12:49:09 info: Token decoded successfully: {"UserName":"Aditya","iat":1726811995,"exp":1726898395}
+2024-09-20 12:49:35 info: Token decoded successfully: {"UserName":"Aditya","iat":1726811995,"exp":1726898395}
+2024-09-20 13:01:06 info: Certificates loaded successfully.
+2024-09-20 13:01:06 info: Server running on port 3000
+2024-09-20 13:01:10 info: Token decoded successfully: {"UserName":"Aditya","iat":1726811995,"exp":1726898395}
+2024-09-20 13:01:19 info: Token decoded successfully: {"UserName":"Aditya","iat":1726811995,"exp":1726898395}
+2024-09-20 13:01:38 info: Certificates loaded successfully.
+2024-09-20 13:01:38 info: Server running on port 3000
+2024-09-20 13:01:42 info: Token decoded successfully: {"UserName":"Aditya","iat":1726811995,"exp":1726898395}
+2024-09-20 13:01:45 info: Token decoded successfully: {"UserName":"Aditya","iat":1726811995,"exp":1726898395}
+2024-09-20 13:03:38 info: Certificates loaded successfully.
+2024-09-20 13:03:38 info: Server running on port 3000
+2024-09-20 13:03:41 info: Token decoded successfully: {"UserName":"Aditya","iat":1726811995,"exp":1726898395}
+2024-09-20 13:03:43 info: Token decoded successfully: {"UserName":"Aditya","iat":1726811995,"exp":1726898395}
+2024-09-20 13:03:52 info: Token decoded successfully: {"UserName":"Aditya","iat":1726811995,"exp":1726898395}
+2024-09-20 13:06:37 info: Certificates loaded successfully.
+2024-09-20 13:06:37 info: Server running on port 3000
+2024-09-20 13:06:52 info: Token decoded successfully: {"UserName":"Aditya","iat":1726811995,"exp":1726898395}
+2024-09-20 13:07:29 info: Token decoded successfully: {"UserName":"Aditya","iat":1726811995,"exp":1726898395}
+2024-09-20 13:08:29 info: Certificates loaded successfully.
+2024-09-20 13:08:29 info: Server running on port 3000
+2024-09-20 13:08:33 info: Token decoded successfully: {"UserName":"Aditya","iat":1726811995,"exp":1726898395}
+2024-09-20 14:18:06 info: Certificates loaded successfully.
+2024-09-20 14:18:06 info: Server running on port 3000
+2024-09-20 14:18:14 info: Token decoded successfully: {"UserName":"Aditya","iat":1726811995,"exp":1726898395}
+2024-09-20 14:21:42 info: Certificates loaded successfully.
+2024-09-20 14:21:42 info: Server running on port 3000
+2024-09-20 14:21:48 info: Token decoded successfully: {"UserName":"Aditya","iat":1726811995,"exp":1726898395}
+2024-09-20 14:22:31 info: Certificates loaded successfully.
+2024-09-20 14:22:31 info: Server running on port 3000
+2024-09-20 14:22:34 info: Token decoded successfully: {"UserName":"Aditya","iat":1726811995,"exp":1726898395}
+2024-09-20 14:23:04 info: Token decoded successfully: {"UserName":"Aditya","iat":1726811995,"exp":1726898395}
+2024-09-20 14:24:42 info: Certificates loaded successfully.
+2024-09-20 14:24:42 info: Server running on port 3000
+2024-09-20 14:24:43 info: Token decoded successfully: {"UserName":"Aditya","iat":1726811995,"exp":1726898395}
+2024-09-20 14:24:49 info: Token decoded successfully: {"UserName":"Aditya","iat":1726811995,"exp":1726898395}
+2024-09-20 14:25:07 info: Certificates loaded successfully.
+2024-09-20 14:25:07 info: Server running on port 3000
+2024-09-20 14:25:10 info: Token decoded successfully: {"UserName":"Aditya","iat":1726811995,"exp":1726898395}
+2024-09-20 14:25:12 info: Token decoded successfully: {"UserName":"Aditya","iat":1726811995,"exp":1726898395}
+2024-09-20 14:27:14 info: Certificates loaded successfully.
+2024-09-20 14:27:14 info: Server running on port 3000
+2024-09-20 14:27:17 info: Token decoded successfully: {"UserName":"Aditya","iat":1726811995,"exp":1726898395}
+2024-09-20 15:35:16 info: Certificates loaded successfully.
+2024-09-20 15:35:16 info: Server running on port 3000
+2024-09-20 15:35:21 info: Token decoded successfully: {"UserName":"Aditya","iat":1726811995,"exp":1726898395}
+2024-09-20 16:02:18 info: Token decoded successfully: {"UserName":"Aditya","iat":1726811995,"exp":1726898395}
+2024-09-20 16:15:51 info: Certificates loaded successfully.
+2024-09-20 16:15:51 info: Server running on port 3000
+2024-09-20 16:16:27 info: Token decoded successfully: {"UserName":"Aditya","iat":1726811995,"exp":1726898395}
+2024-09-20 16:16:47 info: Certificates loaded successfully.
+2024-09-20 16:16:47 info: Server running on port 3000
+2024-09-20 16:16:51 info: Token decoded successfully: {"UserName":"Aditya","iat":1726811995,"exp":1726898395}
+2024-09-20 16:16:57 info: Token decoded successfully: {"UserName":"Aditya","iat":1726811995,"exp":1726898395}
+2024-09-20 16:18:16 info: Certificates loaded successfully.
+2024-09-20 16:18:16 info: Server running on port 3000
+2024-09-20 16:18:27 info: Token decoded successfully: {"UserName":"Aditya","iat":1726811995,"exp":1726898395}
+2024-09-20 16:18:38 info: Token decoded successfully: {"UserName":"Aditya","iat":1726811995,"exp":1726898395}
+2024-09-20 16:19:54 info: Certificates loaded successfully.
+2024-09-20 16:19:54 info: Server running on port 3000
+2024-09-20 16:19:57 info: Token decoded successfully: {"UserName":"Aditya","iat":1726811995,"exp":1726898395}
+2024-09-20 16:22:10 info: Certificates loaded successfully.
+2024-09-20 16:22:10 info: Server running on port 3000
+2024-09-20 16:22:14 info: Token decoded successfully: {"UserName":"Aditya","iat":1726811995,"exp":1726898395}
+2024-09-20 16:23:06 info: Token decoded successfully: {"UserName":"Aditya","iat":1726811995,"exp":1726898395}
+2024-09-20 16:25:07 info: Certificates loaded successfully.
+2024-09-20 16:25:07 info: Server running on port 3000
+2024-09-20 16:25:12 info: Token decoded successfully: {"UserName":"Aditya","iat":1726811995,"exp":1726898395}
+2024-09-20 16:26:31 info: Certificates loaded successfully.
+2024-09-20 16:26:31 info: Server running on port 3000
+2024-09-20 16:26:37 info: Token decoded successfully: {"UserName":"Aditya","iat":1726811995,"exp":1726898395}
+2024-09-20 16:27:51 info: Certificates loaded successfully.
+2024-09-20 16:27:52 info: Server running on port 3000
+2024-09-20 16:27:56 info: Token decoded successfully: {"UserName":"Aditya","iat":1726811995,"exp":1726898395}
+2024-09-20 16:31:12 info: Certificates loaded successfully.
+2024-09-20 16:31:12 info: Server running on port 3000
+2024-09-20 16:31:16 info: Token decoded successfully: {"UserName":"Aditya","iat":1726811995,"exp":1726898395}
+2024-09-20 16:34:56 info: Certificates loaded successfully.
+2024-09-20 16:34:56 info: Server running on port 3000
+2024-09-20 16:35:00 info: Token decoded successfully: {"UserName":"Aditya","iat":1726811995,"exp":1726898395}
+2024-09-20 16:37:37 info: Certificates loaded successfully.
+2024-09-20 16:37:37 info: Server running on port 3000
+2024-09-20 16:37:41 info: Token decoded successfully: {"UserName":"Aditya","iat":1726811995,"exp":1726898395}
+2024-09-20 16:37:44 info: Token decoded successfully: {"UserName":"Aditya","iat":1726811995,"exp":1726898395}
+2024-09-20 16:39:10 info: Token decoded successfully: {"UserName":"Aditya","iat":1726811995,"exp":1726898395}
+2024-09-20 16:40:30 info: Certificates loaded successfully.
+2024-09-20 16:40:30 info: Server running on port 3000
+2024-09-20 16:40:33 info: Token decoded successfully: {"UserName":"Aditya","iat":1726811995,"exp":1726898395}
+2024-09-20 16:40:34 info: Token decoded successfully: {"UserName":"Aditya","iat":1726811995,"exp":1726898395}
+2024-09-20 16:40:49 info: Token decoded successfully: {"UserName":"Aditya","iat":1726811995,"exp":1726898395}
+2024-09-20 16:40:50 info: Token decoded successfully: {"UserName":"Aditya","iat":1726811995,"exp":1726898395}
+2024-09-20 16:41:20 info: Certificates loaded successfully.
+2024-09-20 16:41:20 info: Server running on port 3000
+2024-09-20 16:41:31 info: Certificates loaded successfully.
+2024-09-20 16:41:31 info: Server running on port 3000
+2024-09-20 16:41:35 info: Token decoded successfully: {"UserName":"Aditya","iat":1726811995,"exp":1726898395}
+2024-09-20 16:41:36 info: Token decoded successfully: {"UserName":"Aditya","iat":1726811995,"exp":1726898395}
+2024-09-20 16:41:42 info: Token decoded successfully: {"UserName":"Aditya","iat":1726811995,"exp":1726898395}
+2024-09-20 16:43:27 info: Certificates loaded successfully.
+2024-09-20 16:43:27 info: Server running on port 3000
+2024-09-20 16:43:31 info: Token decoded successfully: {"UserName":"Aditya","iat":1726811995,"exp":1726898395}
+2024-09-20 18:00:06 info: Certificates loaded successfully.
+2024-09-20 18:00:06 info: Server running on port 3000
+2024-09-20 18:00:18 info: Token decoded successfully: {"UserName":"Aditya","iat":1726811995,"exp":1726898395}
+2024-09-20 18:09:36 info: Certificates loaded successfully.
+2024-09-20 18:09:36 info: Server running on port 3000
+2024-09-20 18:09:39 info: Token decoded successfully: {"UserName":"Aditya","iat":1726811995,"exp":1726898395}
+2024-09-20 18:12:38 info: Certificates loaded successfully.
+2024-09-20 18:12:38 info: Server running on port 3000
+2024-09-20 18:12:43 info: Token decoded successfully: {"UserName":"Aditya","iat":1726811995,"exp":1726898395}
+2024-09-21 13:34:32 info: Certificates loaded successfully.
+2024-09-21 13:34:32 info: Server running on port 3000
+2024-09-24 19:59:21 info: Certificates loaded successfully.
+2024-09-24 19:59:21 info: Server running on port 3000
+2024-09-24 19:59:25 info: Token decoded successfully: {"UserName":"Aditya","iat":1727185583,"exp":1727271983}
+2024-09-24 19:59:44 info: Token decoded successfully: {"UserName":"Aditya","iat":1727185583,"exp":1727271983}
+2024-09-24 19:59:50 info: Token decoded successfully: {"UserName":"Aditya","iat":1727185583,"exp":1727271983}
+2024-09-24 20:02:00 info: Certificates loaded successfully.
+2024-09-24 20:02:01 info: Server running on port 3000
+2024-09-24 20:02:05 info: Token decoded successfully: {"UserName":"Aditya","iat":1727185583,"exp":1727271983}
+2024-09-24 20:02:44 info: Certificates loaded successfully.
+2024-09-24 20:02:44 info: Server running on port 3000
+2024-09-24 20:02:47 info: Token decoded successfully: {"UserName":"Aditya","iat":1727185583,"exp":1727271983}
+2024-09-24 20:03:02 info: Token decoded successfully: {"UserName":"Aditya","iat":1727185583,"exp":1727271983}
+2024-09-24 20:03:26 info: Token decoded successfully: {"UserName":"Aditya","iat":1727185583,"exp":1727271983}
+2024-09-24 20:03:33 info: Token decoded successfully: {"UserName":"Aditya","iat":1727185583,"exp":1727271983}
+2024-09-24 20:03:38 info: Token decoded successfully: {"UserName":"Aditya","iat":1727185583,"exp":1727271983}
+2024-09-24 20:03:47 info: Token decoded successfully: {"UserName":"Aditya","iat":1727185583,"exp":1727271983}
+2024-09-24 20:04:07 info: Token decoded successfully: {"UserName":"Aditya","iat":1727185583,"exp":1727271983}
+2024-09-24 20:04:41 info: Certificates loaded successfully.
+2024-09-24 20:04:41 info: Server running on port 3000
+2024-09-24 20:04:45 info: Token decoded successfully: {"UserName":"Aditya","iat":1727185583,"exp":1727271983}
+2024-09-24 20:06:31 info: Token decoded successfully: {"UserName":"Aditya","iat":1727185583,"exp":1727271983}
+2024-09-24 20:08:30 info: Certificates loaded successfully.
+2024-09-24 20:08:30 info: Server running on port 3000
+2024-09-24 20:10:48 info: Certificates loaded successfully.
+2024-09-24 20:10:48 info: Server running on port 3000
+2024-09-24 20:10:52 info: Token decoded successfully: {"UserName":"Aditya","iat":1727185583,"exp":1727271983}
+2024-09-24 20:11:33 info: Token decoded successfully: {"UserName":"Aditya","iat":1727185583,"exp":1727271983}
+2024-09-24 20:39:00 info: Certificates loaded successfully.
+2024-09-24 20:39:00 info: Server running on port 3000
+2024-09-24 20:39:13 info: Token decoded successfully: {"UserName":"Aditya","iat":1727185583,"exp":1727271983}
+2024-09-24 20:39:26 info: Token decoded successfully: {"UserName":"Aditya","iat":1727185583,"exp":1727271983}
+2024-09-24 20:40:02 info: Token decoded successfully: {"UserName":"Aditya","iat":1727185583,"exp":1727271983}
+2024-09-24 22:30:01 info: Certificates loaded successfully.
+2024-09-24 22:30:02 info: Server running on port 3000
+2024-09-24 22:32:03 info: Token decoded successfully: {"UserName":"Aditya","iat":1727185583,"exp":1727271983}
+2024-09-24 22:32:10 info: Token decoded successfully: {"UserName":"Aditya","iat":1727185583,"exp":1727271983}
+2024-09-24 22:32:26 info: Token decoded successfully: {"UserName":"Aditya","iat":1727185583,"exp":1727271983}
+2024-09-24 22:32:33 info: Token decoded successfully: {"UserName":"Aditya","iat":1727185583,"exp":1727271983}
+2024-09-24 22:33:01 info: Token decoded successfully: {"UserName":"Aditya","iat":1727185583,"exp":1727271983}
+2024-09-24 22:33:11 info: Token decoded successfully: {"UserName":"Aditya","iat":1727185583,"exp":1727271983}
+2024-09-24 22:33:33 info: Token decoded successfully: {"UserName":"Aditya","iat":1727185583,"exp":1727271983}
+2024-09-24 22:33:41 info: Token decoded successfully: {"UserName":"Aditya","iat":1727185583,"exp":1727271983}
+2024-09-24 22:34:00 info: Token decoded successfully: {"UserName":"Aditya","iat":1727185583,"exp":1727271983}
+2024-09-24 22:34:17 info: Token decoded successfully: {"UserName":"Aditya","iat":1727185583,"exp":1727271983}
+2024-09-24 22:34:30 info: Token decoded successfully: {"UserName":"Aditya","iat":1727185583,"exp":1727271983}
+2024-09-26 13:04:47 info: Certificates loaded successfully.
+2024-09-26 13:04:47 info: Server running on port 3000
+2024-09-26 13:04:54 error: Token verification error jwt expired
+2024-09-26 13:05:27 info: Token decoded successfully: {"UserName":"Aditya","iat":1727336104,"exp":1727422504}
+2024-09-26 13:17:45 info: Certificates loaded successfully.
+2024-09-26 13:17:45 info: Server running on port 3000
+2024-09-26 13:20:22 info: Token decoded successfully: {"UserName":"Aditya","iat":1727336104,"exp":1727422504}
+2024-09-26 13:21:10 info: Certificates loaded successfully.
+2024-09-26 13:21:10 info: Server running on port 3000
+2024-09-26 13:21:15 info: Token decoded successfully: {"UserName":"Aditya","iat":1727336104,"exp":1727422504}
+2024-09-26 13:27:07 info: Certificates loaded successfully.
+2024-09-26 13:27:07 info: Server running on port 3000
+2024-09-26 13:27:12 info: Token decoded successfully: {"UserName":"Aditya","iat":1727336104,"exp":1727422504}
+2024-09-26 14:06:23 info: Certificates loaded successfully.
+2024-09-26 14:06:23 info: Server running on port 3000
+2024-09-26 14:06:39 info: Token decoded successfully: {"UserName":"Aditya","iat":1727336104,"exp":1727422504}
+2024-10-01 22:44:49 info: Certificates loaded successfully.
+2024-10-01 22:44:49 info: Server running on port 3000
+2024-10-01 22:50:41 info: Certificates loaded successfully.
+2024-10-01 22:50:41 info: Server running on port 3000
+2024-10-04 14:58:07 info: Certificates loaded successfully.
+2024-10-04 14:58:07 info: Server running on port 3000
+2024-10-04 14:58:50 info: Token decoded successfully: {"UserName":"Aditya","iat":1728034110,"exp":1728120510}
+2024-10-04 14:59:20 info: Token decoded successfully: {"UserName":"Aditya","iat":1728034110,"exp":1728120510}
+2024-10-04 14:59:33 info: Token decoded successfully: {"UserName":"Aditya","iat":1728034110,"exp":1728120510}
+2024-10-04 14:59:40 info: Token decoded successfully: {"UserName":"Aditya","iat":1728034110,"exp":1728120510}
+2024-10-04 14:59:48 info: Token decoded successfully: {"UserName":"Aditya","iat":1728034110,"exp":1728120510}
+2024-10-04 15:00:17 info: Token decoded successfully: {"UserName":"Aditya","iat":1728034110,"exp":1728120510}
+2024-10-04 15:01:54 info: Token decoded successfully: {"UserName":"Aditya","iat":1728034110,"exp":1728120510}
+2024-10-04 15:11:30 info: Token decoded successfully: {"UserName":"Aditya","iat":1728034110,"exp":1728120510}
+2024-10-04 15:16:23 info: Certificates loaded successfully.
+2024-10-04 15:16:23 info: Server running on port 3000
+2024-10-04 15:16:28 info: Token decoded successfully: {"UserName":"Aditya","iat":1728034110,"exp":1728120510}
+2024-10-04 15:16:30 info: Token decoded successfully: {"UserName":"Aditya","iat":1728034110,"exp":1728120510}
+2024-10-04 15:17:36 info: Certificates loaded successfully.
+2024-10-04 15:17:36 info: Server running on port 3000
+2024-10-04 15:27:38 info: Certificates loaded successfully.
+2024-10-04 15:27:38 info: Server running on port 3000
+2024-10-04 15:27:45 info: Token decoded successfully: {"UserName":"Aditya","iat":1728034110,"exp":1728120510}
+2024-10-04 15:27:48 info: Token decoded successfully: {"UserName":"Aditya","iat":1728034110,"exp":1728120510}
+2024-10-04 15:27:54 info: Token decoded successfully: {"UserName":"Aditya","iat":1728034110,"exp":1728120510}
+2024-10-04 15:29:18 info: Certificates loaded successfully.
+2024-10-04 15:29:19 info: Server running on port 3000
+2024-10-04 15:29:23 info: Token decoded successfully: {"UserName":"Aditya","iat":1728034110,"exp":1728120510}
+2024-10-04 15:29:27 info: Token decoded successfully: {"UserName":"Aditya","iat":1728034110,"exp":1728120510}
+2024-10-04 15:31:25 info: Certificates loaded successfully.
+2024-10-04 15:31:25 info: Server running on port 3000
+2024-10-04 15:31:29 info: Token decoded successfully: {"UserName":"Aditya","iat":1728034110,"exp":1728120510}
+2024-10-04 15:31:31 info: Token decoded successfully: {"UserName":"Aditya","iat":1728034110,"exp":1728120510}
+2024-10-04 15:31:38 info: Token decoded successfully: {"UserName":"Aditya","iat":1728034110,"exp":1728120510}
+2024-10-04 15:31:45 info: Token decoded successfully: {"UserName":"Aditya","iat":1728034110,"exp":1728120510}
+2024-10-04 15:32:33 info: Certificates loaded successfully.
+2024-10-04 15:32:33 info: Server running on port 3000
+2024-10-04 15:32:37 info: Token decoded successfully: {"UserName":"Aditya","iat":1728034110,"exp":1728120510}
+2024-10-04 15:32:41 info: Token decoded successfully: {"UserName":"Aditya","iat":1728034110,"exp":1728120510}
+2024-10-04 15:33:41 info: Certificates loaded successfully.
+2024-10-04 15:33:41 info: Server running on port 3000
+2024-10-04 15:34:00 info: Certificates loaded successfully.
+2024-10-04 15:34:00 info: Server running on port 3000
+2024-10-04 15:34:03 info: Token decoded successfully: {"UserName":"Aditya","iat":1728034110,"exp":1728120510}
+2024-10-04 15:34:04 info: Token decoded successfully: {"UserName":"Aditya","iat":1728034110,"exp":1728120510}
+2024-10-04 15:34:55 info: Certificates loaded successfully.
+2024-10-04 15:34:55 info: Server running on port 3000
+2024-10-04 15:35:43 info: Token decoded successfully: {"UserName":"Aditya","iat":1728034110,"exp":1728120510}
+2024-10-04 15:35:45 info: Token decoded successfully: {"UserName":"Aditya","iat":1728034110,"exp":1728120510}
+2024-10-04 15:44:22 info: Certificates loaded successfully.
+2024-10-04 15:44:22 info: Server running on port 3000
+2024-10-04 15:44:31 info: Token decoded successfully: {"UserName":"Aditya","iat":1728034110,"exp":1728120510}
+2024-10-07 14:36:49 info: Certificates loaded successfully.
+2024-10-07 14:36:50 info: Server running on port 3000
+2024-10-07 14:40:33 info: Token decoded successfully: {"UserName":"Aditya","iat":1728292101,"exp":1728378501}
+2024-10-07 14:41:31 info: Token decoded successfully: {"UserName":"Aditya","iat":1728292101,"exp":1728378501}
+2024-10-07 14:53:07 info: Certificates loaded successfully.
+2024-10-07 14:53:07 info: Server running on port 3000
+2024-10-07 14:53:11 info: Token decoded successfully: {"UserName":"Aditya","iat":1728292101,"exp":1728378501}
+2024-10-07 15:06:21 info: Certificates loaded successfully.
+2024-10-07 15:06:21 info: Server running on port 3000
+2024-10-07 15:06:25 info: Token decoded successfully: {"UserName":"Aditya","iat":1728292101,"exp":1728378501}
+2024-10-07 15:08:47 info: Certificates loaded successfully.
+2024-10-07 15:08:47 info: Server running on port 3000
+2024-10-07 15:08:50 info: Token decoded successfully: {"UserName":"Aditya","iat":1728292101,"exp":1728378501}
+2024-10-07 15:12:08 info: Token decoded successfully: {"UserName":"Aditya","iat":1728292101,"exp":1728378501}
+2024-10-07 15:12:27 info: Token decoded successfully: {"UserName":"Aditya","iat":1728292101,"exp":1728378501}
+2024-10-07 15:12:52 info: Token decoded successfully: {"UserName":"Aditya","iat":1728292101,"exp":1728378501}
+2024-10-07 15:13:18 info: Token decoded successfully: {"UserName":"Aditya","iat":1728292101,"exp":1728378501}
+2024-10-07 15:14:23 info: Token decoded successfully: {"UserName":"Aditya","iat":1728292101,"exp":1728378501}
+2024-10-07 15:14:28 info: Token decoded successfully: {"UserName":"Aditya","iat":1728292101,"exp":1728378501}
+2024-10-07 15:14:39 info: Token decoded successfully: {"UserName":"Aditya","iat":1728292101,"exp":1728378501}
+2024-10-07 15:15:58 info: Token decoded successfully: {"UserName":"Aditya","iat":1728292101,"exp":1728378501}
+2024-10-07 15:16:21 info: Token decoded successfully: {"UserName":"Aditya","iat":1728292101,"exp":1728378501}
+2024-10-07 15:22:13 info: Certificates loaded successfully.
+2024-10-07 15:22:13 info: Server running on port 3000
+2024-10-07 15:22:17 info: Token decoded successfully: {"UserName":"Aditya","iat":1728292101,"exp":1728378501}
+2024-10-07 15:22:33 info: Token decoded successfully: {"UserName":"Aditya","iat":1728292101,"exp":1728378501}
+2024-10-07 15:32:19 info: Certificates loaded successfully.
+2024-10-07 15:32:19 info: Server running on port 3000
+2024-10-07 15:32:28 info: Token decoded successfully: {"UserName":"Aditya","iat":1728292101,"exp":1728378501}
+2024-10-07 15:35:51 info: Certificates loaded successfully.
+2024-10-07 15:35:51 info: Server running on port 3000
+2024-10-07 15:35:54 info: Token decoded successfully: {"UserName":"Aditya","iat":1728292101,"exp":1728378501}
+2024-10-07 15:48:42 info: Certificates loaded successfully.
+2024-10-07 15:48:42 info: Server running on port 3000
+2024-10-07 15:48:46 info: Token decoded successfully: {"UserName":"Aditya","iat":1728292101,"exp":1728378501}
+2024-10-07 15:51:15 info: Certificates loaded successfully.
+2024-10-07 15:51:15 info: Server running on port 3000
+2024-10-07 15:51:28 info: Token decoded successfully: {"UserName":"Aditya","iat":1728292101,"exp":1728378501}
+2024-10-07 15:51:48 info: Token decoded successfully: {"UserName":"Aditya","iat":1728292101,"exp":1728378501}
+2024-10-07 15:52:34 info: Token decoded successfully: {"UserName":"Aditya","iat":1728292101,"exp":1728378501}
+2024-10-07 15:52:46 info: Token decoded successfully: {"UserName":"Aditya","iat":1728292101,"exp":1728378501}
+2024-10-07 15:53:27 info: Token decoded successfully: {"UserName":"Aditya","iat":1728292101,"exp":1728378501}
+2024-10-07 15:54:46 info: Token decoded successfully: {"UserName":"Aditya","iat":1728292101,"exp":1728378501}
+2024-10-07 15:55:10 info: Token decoded successfully: {"UserName":"Aditya","iat":1728292101,"exp":1728378501}
+2024-10-07 15:56:39 info: Token decoded successfully: {"UserName":"Aditya","iat":1728292101,"exp":1728378501}
+2024-10-07 15:56:43 info: Token decoded successfully: {"UserName":"Aditya","iat":1728292101,"exp":1728378501}
+2024-10-11 15:14:27 info: Certificates loaded successfully.
+2024-10-11 15:14:27 info: Server running on port 3000
+2024-10-11 15:15:58 info: Token decoded successfully: {"UserName":"Aditya","iat":1728639942,"exp":1728726342}
+2024-10-11 15:16:22 info: Token decoded successfully: {"UserName":"Aditya","iat":1728639942,"exp":1728726342}
+2024-10-11 15:21:03 info: Certificates loaded successfully.
+2024-10-11 15:21:03 info: Server running on port 3000
+2024-10-11 15:21:25 info: Token decoded successfully: {"UserName":"Aditya","iat":1728639942,"exp":1728726342}
+2024-10-11 15:22:55 info: Token decoded successfully: {"UserName":"Aditya","iat":1728639942,"exp":1728726342}
+2024-10-11 15:34:25 info: Certificates loaded successfully.
+2024-10-11 15:34:25 info: Server running on port 3000
+2024-10-11 15:34:29 info: Token decoded successfully: {"UserName":"Aditya","iat":1728639942,"exp":1728726342}
+2024-10-11 15:35:03 info: Token decoded successfully: {"UserName":"Aditya","iat":1728639942,"exp":1728726342}
+2024-10-11 15:36:41 info: Certificates loaded successfully.
+2024-10-11 15:36:41 info: Server running on port 3000
+2024-10-11 15:36:44 info: Token decoded successfully: {"UserName":"Aditya","iat":1728639942,"exp":1728726342}
+2024-10-11 15:37:24 info: Token decoded successfully: {"UserName":"Aditya","iat":1728639942,"exp":1728726342}
+2024-10-11 15:37:32 info: Token decoded successfully: {"UserName":"Aditya","iat":1728639942,"exp":1728726342}
+2024-10-11 15:38:34 info: Token decoded successfully: {"UserName":"Aditya","iat":1728639942,"exp":1728726342}
+2024-10-11 15:39:06 info: Token decoded successfully: {"UserName":"Aditya","iat":1728639942,"exp":1728726342}
+2024-10-11 15:46:49 info: Certificates loaded successfully.
+2024-10-11 15:46:49 info: Server running on port 3000
+2024-10-11 15:47:04 info: Token decoded successfully: {"UserName":"Aditya","iat":1728641768,"exp":1728728168}
+2024-10-11 16:40:40 info: Certificates loaded successfully.
+2024-10-11 16:40:40 info: Server running on port 3000
+2024-10-11 16:42:17 info: Token decoded successfully: {"UserName":"Aditya","iat":1728641768,"exp":1728728168}
+2024-10-11 16:43:22 info: Token decoded successfully: {"UserName":"Aditya","iat":1728641768,"exp":1728728168}
+2024-10-11 16:43:27 info: Token decoded successfully: {"UserName":"Aditya","iat":1728641768,"exp":1728728168}
+2024-10-11 16:45:32 info: Certificates loaded successfully.
+2024-10-11 16:45:32 info: Server running on port 3000
+2024-10-11 16:45:35 info: Token decoded successfully: {"UserName":"Aditya","iat":1728641768,"exp":1728728168}
+2024-10-11 16:45:36 info: Token decoded successfully: {"UserName":"Aditya","iat":1728641768,"exp":1728728168}
+2024-10-11 16:48:48 info: Certificates loaded successfully.
+2024-10-11 16:48:48 info: Server running on port 3000
+2024-10-11 16:48:54 info: Token decoded successfully: {"UserName":"Aditya","iat":1728641768,"exp":1728728168}
+2024-10-11 16:48:56 info: Token decoded successfully: {"UserName":"Aditya","iat":1728641768,"exp":1728728168}
+2024-10-11 16:49:16 info: Token decoded successfully: {"UserName":"Aditya","iat":1728641768,"exp":1728728168}
+2024-10-11 17:12:10 info: Certificates loaded successfully.
+2024-10-11 17:12:10 info: Server running on port 3000
+2024-10-11 17:12:20 info: Token decoded successfully: {"UserName":"Aditya","iat":1728641768,"exp":1728728168}
+2024-10-11 17:12:29 info: Token decoded successfully: {"UserName":"Aditya","iat":1728641768,"exp":1728728168}
+2024-10-11 17:12:37 info: Token decoded successfully: {"UserName":"Aditya","iat":1728641768,"exp":1728728168}
+2024-10-11 17:15:23 info: Token decoded successfully: {"UserName":"Aditya","iat":1728641768,"exp":1728728168}
+2024-10-11 17:26:00 info: Certificates loaded successfully.
+2024-10-11 17:26:00 info: Server running on port 3000
+2024-10-11 17:26:03 info: Token decoded successfully: {"UserName":"Aditya","iat":1728641768,"exp":1728728168}
+2024-10-11 17:26:05 info: Token decoded successfully: {"UserName":"Aditya","iat":1728641768,"exp":1728728168}
+2024-10-11 17:26:07 info: Token decoded successfully: {"UserName":"Aditya","iat":1728641768,"exp":1728728168}
+2024-10-11 17:28:07 info: Certificates loaded successfully.
+2024-10-11 17:28:07 info: Server running on port 3000
+2024-10-11 17:28:15 info: Token decoded successfully: {"UserName":"Aditya","iat":1728641768,"exp":1728728168}
+2024-10-11 17:30:28 info: Certificates loaded successfully.
+2024-10-11 17:30:28 info: Server running on port 3000
+2024-10-11 17:30:31 info: Token decoded successfully: {"UserName":"Aditya","iat":1728641768,"exp":1728728168}
+2024-10-11 17:30:34 info: Token decoded successfully: {"UserName":"Aditya","iat":1728641768,"exp":1728728168}
+2024-10-11 17:40:50 info: Certificates loaded successfully.
+2024-10-11 17:40:50 info: Server running on port 3000
+2024-10-11 17:41:03 info: Token decoded successfully: {"UserName":"Aditya","iat":1728641768,"exp":1728728168}
+2024-10-11 17:43:25 info: Certificates loaded successfully.
+2024-10-11 17:43:25 info: Server running on port 3000
+2024-10-11 17:44:29 info: Certificates loaded successfully.
+2024-10-11 17:44:29 info: Server running on port 3000
+2024-10-11 17:44:33 info: Token decoded successfully: {"UserName":"Aditya","iat":1728641768,"exp":1728728168}
+2024-10-11 17:45:05 info: Token decoded successfully: {"UserName":"Aditya","iat":1728641768,"exp":1728728168}
+2024-10-11 17:45:07 info: Token decoded successfully: {"UserName":"Aditya","iat":1728641768,"exp":1728728168}
+2024-10-11 17:47:30 info: Certificates loaded successfully.
+2024-10-11 17:47:30 info: Server running on port 3000
+2024-10-11 17:47:45 info: Token decoded successfully: {"UserName":"Aditya","iat":1728641768,"exp":1728728168}
+2024-10-11 17:50:18 info: Certificates loaded successfully.
+2024-10-11 17:50:18 info: Server running on port 3000
+2024-10-11 17:50:40 info: Token decoded successfully: {"UserName":"Aditya","iat":1728641768,"exp":1728728168}
+2024-10-11 17:50:42 info: Token decoded successfully: {"UserName":"Aditya","iat":1728641768,"exp":1728728168}
+2024-10-11 17:51:15 info: Token decoded successfully: {"UserName":"Aditya","iat":1728641768,"exp":1728728168}
+2024-10-11 17:53:11 info: Token decoded successfully: {"UserName":"Aditya","iat":1728641768,"exp":1728728168}
+2024-10-11 17:53:13 info: Token decoded successfully: {"UserName":"Aditya","iat":1728641768,"exp":1728728168}
+2024-10-11 17:53:23 info: Token decoded successfully: {"UserName":"Aditya","iat":1728641768,"exp":1728728168}
+2024-10-11 17:53:30 info: Token decoded successfully: {"UserName":"Aditya","iat":1728641768,"exp":1728728168}
+2024-10-11 17:54:25 info: Token decoded successfully: {"UserName":"Aditya","iat":1728641768,"exp":1728728168}
+2024-10-11 17:54:40 info: Token decoded successfully: {"UserName":"Aditya","iat":1728641768,"exp":1728728168}
+2024-10-11 18:33:55 info: Certificates loaded successfully.
+2024-10-11 18:33:55 info: Server running on port 3000
+2024-10-11 18:35:23 info: Certificates loaded successfully.
+2024-10-11 18:35:23 info: Server running on port 3000
+2024-10-11 18:35:51 info: Token decoded successfully: {"UserName":"Aditya","iat":1728651848,"exp":1728738248}
+2024-10-11 18:36:58 info: Token decoded successfully: {"UserName":"Aditya","iat":1728651848,"exp":1728738248}
+2024-10-11 18:37:00 info: Token decoded successfully: {"UserName":"Aditya","iat":1728651848,"exp":1728738248}
+2024-10-11 18:38:16 info: Token decoded successfully: {"UserName":"Aditya","iat":1728651848,"exp":1728738248}
+2024-10-11 18:38:23 info: Token decoded successfully: {"UserName":"Aditya","iat":1728651848,"exp":1728738248}
+2024-10-11 18:39:09 info: Certificates loaded successfully.
+2024-10-11 18:39:09 info: Server running on port 3000
+2024-10-11 18:39:14 info: Token decoded successfully: {"UserName":"Aditya","iat":1728651848,"exp":1728738248}
+2024-10-11 18:39:45 info: Token decoded successfully: {"UserName":"Aditya","iat":1728651848,"exp":1728738248}
+2024-10-11 18:45:55 info: Certificates loaded successfully.
+2024-10-11 18:45:55 info: Server running on port 3000
+2024-10-11 18:46:02 info: Token decoded successfully: {"UserName":"Aditya","iat":1728651848,"exp":1728738248}
+2024-10-11 18:46:07 info: Token decoded successfully: {"UserName":"Aditya","iat":1728651848,"exp":1728738248}
+2024-10-11 18:52:43 info: Certificates loaded successfully.
+2024-10-11 18:52:43 info: Server running on port 3000
+2024-10-11 18:53:44 info: Token decoded successfully: {"UserName":"Aditya","iat":1728651848,"exp":1728738248}
+2024-10-11 18:53:46 info: Token decoded successfully: {"UserName":"Aditya","iat":1728651848,"exp":1728738248}
+2024-10-11 18:54:35 info: Certificates loaded successfully.
+2024-10-11 18:54:35 info: Server running on port 3000
+2024-10-11 18:54:42 info: Token decoded successfully: {"UserName":"Aditya","iat":1728651848,"exp":1728738248}
+2024-10-11 18:59:41 info: Certificates loaded successfully.
+2024-10-11 18:59:42 info: Server running on port 3000
+2024-10-11 18:59:47 info: Token decoded successfully: {"UserName":"Aditya","iat":1728651848,"exp":1728738248}
+2024-10-11 18:59:49 info: Token decoded successfully: {"UserName":"Aditya","iat":1728651848,"exp":1728738248}
+2024-10-11 19:02:36 info: Certificates loaded successfully.
+2024-10-11 19:02:36 info: Server running on port 3000
+2024-10-11 19:02:41 info: Token decoded successfully: {"UserName":"Aditya","iat":1728651848,"exp":1728738248}
+2024-10-11 19:02:42 info: Token decoded successfully: {"UserName":"Aditya","iat":1728651848,"exp":1728738248}
+2024-10-11 19:08:58 info: Certificates loaded successfully.
+2024-10-11 19:08:58 info: Server running on port 3000
+2024-10-11 19:09:03 info: Token decoded successfully: {"UserName":"Aditya","iat":1728651848,"exp":1728738248}
+2024-10-11 19:09:27 info: Token decoded successfully: {"UserName":"Aditya","iat":1728651848,"exp":1728738248}
+2024-10-11 19:13:28 info: Certificates loaded successfully.
+2024-10-11 19:13:28 info: Server running on port 3000
+2024-10-11 19:13:38 info: Token decoded successfully: {"UserName":"Aditya","iat":1728651848,"exp":1728738248}
+2024-10-11 19:14:42 info: Certificates loaded successfully.
+2024-10-11 19:14:42 info: Server running on port 3000
+2024-10-11 19:14:51 info: Token decoded successfully: {"UserName":"Aditya","iat":1728651848,"exp":1728738248}
+2024-10-11 19:16:34 info: Certificates loaded successfully.
+2024-10-11 19:16:34 info: Server running on port 3000
+2024-10-11 19:16:39 info: Token decoded successfully: {"UserName":"Aditya","iat":1728651848,"exp":1728738248}
+2024-10-11 19:28:27 info: Token decoded successfully: {"UserName":"Aditya","iat":1728651848,"exp":1728738248}
+2024-10-11 19:28:31 info: Token decoded successfully: {"UserName":"Aditya","iat":1728651848,"exp":1728738248}
+2024-10-11 19:30:21 info: Certificates loaded successfully.
+2024-10-11 19:30:21 info: Server running on port 3000
+2024-10-11 19:30:38 info: Certificates loaded successfully.
+2024-10-11 19:30:38 info: Server running on port 3000
+2024-10-11 19:38:57 info: Certificates loaded successfully.
+2024-10-11 19:38:57 info: Server running on port 3000
+2024-10-14 09:14:23 info: Certificates loaded successfully.
+2024-10-14 09:14:23 info: Server running on port 3000
+2024-10-14 09:15:10 info: Token decoded successfully: {"UserName":"Aditya","iat":1728877468,"exp":1728963868}
+2024-10-14 09:27:36 info: Certificates loaded successfully.
+2024-10-14 09:27:36 info: Server running on port 3000
+2024-10-14 09:27:41 info: Token decoded successfully: {"UserName":"Aditya","iat":1728877468,"exp":1728963868}
+2024-10-14 09:51:55 info: Certificates loaded successfully.
+2024-10-14 09:51:55 info: Server running on port 3000
+2024-10-14 09:51:59 info: Token decoded successfully: {"UserName":"Aditya","iat":1728877468,"exp":1728963868}
+2024-10-14 10:34:14 info: Certificates loaded successfully.
+2024-10-14 10:34:14 info: Server running on port 3000
+2024-10-14 10:34:23 info: Token decoded successfully: {"UserName":"Aditya","iat":1728877468,"exp":1728963868}
+2024-10-14 10:34:25 info: Token decoded successfully: {"UserName":"Aditya","iat":1728877468,"exp":1728963868}
+2024-10-14 10:45:26 info: Certificates loaded successfully.
+2024-10-14 10:45:26 info: Server running on port 3000
+2024-10-14 10:46:56 info: Token decoded successfully: {"UserName":"Aditya","iat":1728877468,"exp":1728963868}
+2024-10-14 10:47:37 info: Token decoded successfully: {"UserName":"Aditya","iat":1728877468,"exp":1728963868}
+2024-10-14 10:48:03 info: Certificates loaded successfully.
+2024-10-14 10:48:03 info: Server running on port 3000
+2024-10-14 10:48:07 info: Token decoded successfully: {"UserName":"Aditya","iat":1728877468,"exp":1728963868}
+2024-10-14 10:50:00 info: Certificates loaded successfully.
+2024-10-14 10:50:00 info: Server running on port 3000
+2024-10-14 10:50:05 info: Token decoded successfully: {"UserName":"Aditya","iat":1728877468,"exp":1728963868}
+2024-10-14 10:51:25 info: Certificates loaded successfully.
+2024-10-14 10:51:25 info: Server running on port 3000
+2024-10-14 10:51:30 info: Token decoded successfully: {"UserName":"Aditya","iat":1728877468,"exp":1728963868}
+2024-10-14 10:53:16 info: Certificates loaded successfully.
+2024-10-14 10:53:16 info: Server running on port 3000
+2024-10-14 10:53:20 info: Token decoded successfully: {"UserName":"Aditya","iat":1728877468,"exp":1728963868}
+2024-10-14 10:54:08 info: Certificates loaded successfully.
+2024-10-14 10:54:09 info: Server running on port 3000
+2024-10-14 10:54:14 info: Token decoded successfully: {"UserName":"Aditya","iat":1728877468,"exp":1728963868}
+2024-10-14 10:55:15 info: Certificates loaded successfully.
+2024-10-14 10:55:15 info: Server running on port 3000
+2024-10-14 10:55:23 info: Token decoded successfully: {"UserName":"Aditya","iat":1728877468,"exp":1728963868}
+2024-10-14 10:58:13 info: Certificates loaded successfully.
+2024-10-14 10:58:13 info: Server running on port 3000
+2024-10-14 10:58:29 info: Token decoded successfully: {"UserName":"Aditya","iat":1728877468,"exp":1728963868}
+2024-10-14 10:58:36 info: Token decoded successfully: {"UserName":"Aditya","iat":1728877468,"exp":1728963868}
+2024-10-14 11:00:42 info: Certificates loaded successfully.
+2024-10-14 11:00:42 info: Server running on port 3000
+2024-10-14 11:02:20 info: Certificates loaded successfully.
+2024-10-14 11:02:20 info: Server running on port 3000
+2024-10-14 11:31:33 info: Certificates loaded successfully.
+2024-10-14 11:31:33 info: Server running on port 3000
+2024-10-14 11:31:57 info: Token decoded successfully: {"UserName":"Aditya","iat":1728877468,"exp":1728963868}
+2024-10-14 11:32:37 info: Certificates loaded successfully.
+2024-10-14 11:32:37 info: Server running on port 3000
+2024-10-14 11:32:42 info: Token decoded successfully: {"UserName":"Aditya","iat":1728877468,"exp":1728963868}
+2024-10-14 11:32:49 info: Token decoded successfully: {"UserName":"Aditya","iat":1728877468,"exp":1728963868}
+2024-10-14 11:32:59 info: Token decoded successfully: {"UserName":"Aditya","iat":1728877468,"exp":1728963868}
+2024-10-14 12:11:31 info: Certificates loaded successfully.
+2024-10-14 12:11:31 info: Server running on port 3000
+2024-10-14 12:11:38 info: Token decoded successfully: {"UserName":"Aditya","iat":1728877468,"exp":1728963868}
+2024-10-14 12:49:28 info: Certificates loaded successfully.
+2024-10-14 12:49:28 info: Server running on port 3000
+2024-10-14 12:49:32 info: Token decoded successfully: {"UserName":"Aditya","iat":1728877468,"exp":1728963868}
+2024-10-14 12:49:55 info: Token decoded successfully: {"UserName":"Aditya","iat":1728877468,"exp":1728963868}
+2024-10-14 12:50:02 info: Token decoded successfully: {"UserName":"Aditya","iat":1728877468,"exp":1728963868}
+2024-10-14 12:53:51 info: Certificates loaded successfully.
+2024-10-14 12:53:51 info: Server running on port 3000
+2024-10-14 12:53:54 info: Token decoded successfully: {"UserName":"Aditya","iat":1728877468,"exp":1728963868}
+2024-10-14 12:53:56 info: Token decoded successfully: {"UserName":"Aditya","iat":1728877468,"exp":1728963868}
+2024-10-14 12:54:34 info: Token decoded successfully: {"UserName":"Aditya","iat":1728877468,"exp":1728963868}
+2024-10-14 13:01:36 info: Certificates loaded successfully.
+2024-10-14 13:01:36 info: Server running on port 3000
+2024-10-14 13:01:40 info: Token decoded successfully: {"UserName":"Aditya","iat":1728877468,"exp":1728963868}
+2024-10-14 13:04:03 info: Token decoded successfully: {"UserName":"Aditya","iat":1728877468,"exp":1728963868}
+2024-10-14 17:07:47 info: Certificates loaded successfully.
+2024-10-14 17:07:47 info: Server running on port 3000
+2024-10-14 17:27:29 info: Certificates loaded successfully.
+2024-10-14 17:27:29 info: Server running on port 3000
+2024-10-14 17:27:47 info: Token decoded successfully: {"UserName":"Aditya","iat":1728877468,"exp":1728963868}
+2024-10-14 17:28:08 info: Token decoded successfully: {"UserName":"Aditya","iat":1728877468,"exp":1728963868}
+2024-10-14 17:28:57 info: Token decoded successfully: {"UserName":"Aditya","iat":1728877468,"exp":1728963868}
+2024-10-14 17:43:24 info: Certificates loaded successfully.
+2024-10-14 17:43:24 info: Server running on port 3000
+2024-10-14 17:44:00 info: Token decoded successfully: {"UserName":"Aditya","iat":1728877468,"exp":1728963868}
+2024-10-15 09:39:26 info: Certificates loaded successfully.
+2024-10-15 09:39:26 info: Server running on port 3000
+2024-10-15 09:39:42 info: Token decoded successfully: {"UserName":"Aditya","iat":1728964139,"exp":1729050539}
+2024-10-15 09:45:03 info: Certificates loaded successfully.
+2024-10-15 09:45:03 info: Server running on port 3000
+2024-10-15 09:45:07 info: Token decoded successfully: {"UserName":"Aditya","iat":1728964139,"exp":1729050539}
+2024-10-15 09:45:44 info: Token decoded successfully: {"UserName":"Aditya","iat":1728964139,"exp":1729050539}
+2024-10-15 09:46:13 info: Certificates loaded successfully.
+2024-10-15 09:46:13 info: Server running on port 3000
+2024-10-15 09:46:17 info: Token decoded successfully: {"UserName":"Aditya","iat":1728964139,"exp":1729050539}
+2024-10-15 09:46:44 info: Certificates loaded successfully.
+2024-10-15 09:46:44 info: Server running on port 3000
+2024-10-15 09:46:47 info: Token decoded successfully: {"UserName":"Aditya","iat":1728964139,"exp":1729050539}
+2024-10-15 09:47:00 info: Token decoded successfully: {"UserName":"Aditya","iat":1728964139,"exp":1729050539}
+2024-10-15 09:51:09 info: Token decoded successfully: {"UserName":"Aditya","iat":1728964139,"exp":1729050539}
+2024-10-15 09:51:20 info: Token decoded successfully: {"UserName":"Aditya","iat":1728964139,"exp":1729050539}
+2024-10-15 09:55:59 info: Certificates loaded successfully.
+2024-10-15 09:55:59 info: Server running on port 3000
+2024-10-15 09:56:07 info: Token decoded successfully: {"UserName":"Aditya","iat":1728964139,"exp":1729050539}
+2024-10-15 09:58:23 info: Certificates loaded successfully.
+2024-10-15 09:58:23 info: Server running on port 3000
+2024-10-15 09:58:28 info: Token decoded successfully: {"UserName":"Aditya","iat":1728964139,"exp":1729050539}
+2024-10-15 09:58:49 info: Token decoded successfully: {"UserName":"Aditya","iat":1728964139,"exp":1729050539}
+2024-10-15 09:58:57 info: Token decoded successfully: {"UserName":"Aditya","iat":1728964139,"exp":1729050539}
+2024-10-15 09:59:20 info: Certificates loaded successfully.
+2024-10-15 09:59:20 info: Server running on port 3000
+2024-10-15 09:59:24 info: Token decoded successfully: {"UserName":"Aditya","iat":1728964139,"exp":1729050539}
+2024-10-15 09:59:27 info: Token decoded successfully: {"UserName":"Aditya","iat":1728964139,"exp":1729050539}
+2024-10-15 10:01:53 info: Token decoded successfully: {"UserName":"Aditya","iat":1728964139,"exp":1729050539}
+2024-10-15 10:08:26 info: Certificates loaded successfully.
+2024-10-15 10:08:26 info: Server running on port 3000
+2024-10-15 10:08:30 info: Token decoded successfully: {"UserName":"Aditya","iat":1728964139,"exp":1729050539}
+2024-10-15 10:14:51 info: Certificates loaded successfully.
+2024-10-15 10:14:51 info: Server running on port 3000
+2024-10-15 10:14:55 info: Token decoded successfully: {"UserName":"Aditya","iat":1728964139,"exp":1729050539}
+2024-10-15 10:15:30 info: Token decoded successfully: {"UserName":"Aditya","iat":1728964139,"exp":1729050539}
+2024-10-15 10:16:03 info: Token decoded successfully: {"UserName":"Aditya","iat":1728964139,"exp":1729050539}
+2024-10-15 10:16:14 info: Token decoded successfully: {"UserName":"Aditya","iat":1728964139,"exp":1729050539}
+2024-10-15 10:21:04 info: Certificates loaded successfully.
+2024-10-15 10:21:04 info: Server running on port 3000
+2024-10-15 10:21:09 info: Token decoded successfully: {"UserName":"Aditya","iat":1728964139,"exp":1729050539}
+2024-10-15 10:23:10 info: Certificates loaded successfully.
+2024-10-15 10:23:10 info: Server running on port 3000
+2024-10-15 10:23:14 info: Token decoded successfully: {"UserName":"Aditya","iat":1728964139,"exp":1729050539}
+2024-10-15 10:23:32 info: Token decoded successfully: {"UserName":"Aditya","iat":1728964139,"exp":1729050539}
+2024-10-15 10:30:28 info: Certificates loaded successfully.
+2024-10-15 10:30:28 info: Server running on port 3000
+2024-10-15 10:30:34 info: Token decoded successfully: {"UserName":"Aditya","iat":1728964139,"exp":1729050539}
+2024-10-15 10:30:43 info: Token decoded successfully: {"UserName":"Aditya","iat":1728964139,"exp":1729050539}
+2024-10-15 10:31:23 info: Certificates loaded successfully.
+2024-10-15 10:31:23 info: Server running on port 3000
+2024-10-15 10:31:26 info: Token decoded successfully: {"UserName":"Aditya","iat":1728964139,"exp":1729050539}
+2024-10-15 10:34:08 info: Token decoded successfully: {"UserName":"Aditya","iat":1728964139,"exp":1729050539}
+2024-10-15 10:35:32 info: Token decoded successfully: {"UserName":"Aditya","iat":1728964139,"exp":1729050539}
+2024-10-15 10:38:47 info: Certificates loaded successfully.
+2024-10-15 10:38:47 info: Server running on port 3000
+2024-10-15 10:38:57 info: Token decoded successfully: {"UserName":"Aditya","iat":1728964139,"exp":1729050539}
+2024-10-15 10:39:24 info: Token decoded successfully: {"UserName":"Aditya","iat":1728964139,"exp":1729050539}
+2024-10-15 10:43:39 info: Certificates loaded successfully.
+2024-10-15 10:43:39 info: Server running on port 3000
+2024-10-15 10:43:46 info: Token decoded successfully: {"UserName":"Aditya","iat":1728964139,"exp":1729050539}
+2024-10-15 10:44:05 info: Token decoded successfully: {"UserName":"Aditya","iat":1728964139,"exp":1729050539}
+2024-10-15 11:48:12 info: Certificates loaded successfully.
+2024-10-15 11:48:12 info: Server running on port 3000
+2024-10-15 11:50:43 info: Certificates loaded successfully.
+2024-10-15 11:50:43 info: Server running on port 3000
+2024-10-15 11:52:02 info: Token decoded successfully: {"UserName":"Aditya","iat":1728964139,"exp":1729050539}
+2024-10-15 11:53:04 info: Certificates loaded successfully.
+2024-10-15 11:53:04 info: Server running on port 3000
+2024-10-15 11:53:09 info: Token decoded successfully: {"UserName":"Aditya","iat":1728964139,"exp":1729050539}
+2024-10-15 11:56:41 info: Certificates loaded successfully.
+2024-10-15 11:56:41 info: Server running on port 3000
+2024-10-15 11:56:44 info: Token decoded successfully: {"UserName":"Aditya","iat":1728964139,"exp":1729050539}
+2024-10-15 11:56:46 info: Token decoded successfully: {"UserName":"Aditya","iat":1728964139,"exp":1729050539}
+2024-10-15 12:03:49 info: Certificates loaded successfully.
+2024-10-15 12:03:49 info: Server running on port 3000
+2024-10-15 12:03:53 info: Token decoded successfully: {"UserName":"Aditya","iat":1728964139,"exp":1729050539}
+2024-10-15 12:10:13 info: Certificates loaded successfully.
+2024-10-15 12:10:13 info: Server running on port 3000
+2024-10-15 12:10:17 info: Token decoded successfully: {"UserName":"Aditya","iat":1728964139,"exp":1729050539}
+2024-10-15 12:12:26 info: Certificates loaded successfully.
+2024-10-15 12:12:26 info: Server running on port 3000
+2024-10-15 12:12:30 info: Token decoded successfully: {"UserName":"Aditya","iat":1728964139,"exp":1729050539}
+2024-10-15 12:14:43 info: Certificates loaded successfully.
+2024-10-15 12:14:43 info: Server running on port 3000
+2024-10-15 12:14:47 info: Token decoded successfully: {"UserName":"Aditya","iat":1728964139,"exp":1729050539}
+2024-10-15 12:18:34 info: Certificates loaded successfully.
+2024-10-15 12:18:34 info: Server running on port 3000
+2024-10-15 12:18:38 info: Token decoded successfully: {"UserName":"Aditya","iat":1728964139,"exp":1729050539}
+2024-10-15 12:19:06 info: Certificates loaded successfully.
+2024-10-15 12:19:06 info: Server running on port 3000
+2024-10-15 12:19:09 info: Token decoded successfully: {"UserName":"Aditya","iat":1728964139,"exp":1729050539}
+2024-10-15 12:20:21 info: Certificates loaded successfully.
+2024-10-15 12:20:21 info: Server running on port 3000
+2024-10-15 12:20:25 info: Token decoded successfully: {"UserName":"Aditya","iat":1728964139,"exp":1729050539}
+2024-10-15 12:23:49 info: Certificates loaded successfully.
+2024-10-15 12:23:49 info: Server running on port 3000
+2024-10-15 12:23:53 info: Token decoded successfully: {"UserName":"Aditya","iat":1728964139,"exp":1729050539}
+2024-10-15 12:25:48 info: Certificates loaded successfully.
+2024-10-15 12:25:48 info: Server running on port 3000
+2024-10-15 12:25:51 info: Token decoded successfully: {"UserName":"Aditya","iat":1728964139,"exp":1729050539}
+2024-10-15 12:26:35 info: Token decoded successfully: {"UserName":"Aditya","iat":1728964139,"exp":1729050539}
+2024-10-15 12:27:06 info: Token decoded successfully: {"UserName":"Aditya","iat":1728964139,"exp":1729050539}
+2024-10-15 20:04:16 info: Certificates loaded successfully.
+2024-10-15 20:04:16 info: Server running on port 3000
+2024-10-15 20:05:09 info: Token decoded successfully: {"UserName":"Aditya","iat":1728964139,"exp":1729050539}
+2024-10-15 20:05:26 info: Certificates loaded successfully.
+2024-10-15 20:05:27 info: Server running on port 3000
+2024-10-15 20:05:30 info: Token decoded successfully: {"UserName":"Aditya","iat":1728964139,"exp":1729050539}
+2024-10-15 20:06:12 info: Certificates loaded successfully.
+2024-10-15 20:06:12 info: Server running on port 3000
+2024-10-15 20:06:16 info: Token decoded successfully: {"UserName":"Aditya","iat":1728964139,"exp":1729050539}
+2024-10-15 20:21:50 info: Certificates loaded successfully.
+2024-10-15 20:21:50 info: Server running on port 3000
+2024-10-15 20:24:28 info: Token decoded successfully: {"UserName":"Aditya","iat":1728964139,"exp":1729050539}
+2024-10-15 20:24:30 info: Token decoded successfully: {"UserName":"Aditya","iat":1728964139,"exp":1729050539}
+2024-10-15 20:24:40 info: Token decoded successfully: {"UserName":"Aditya","iat":1728964139,"exp":1729050539}
+2024-10-15 20:24:41 info: Token decoded successfully: {"UserName":"Aditya","iat":1728964139,"exp":1729050539}
+2024-10-15 20:24:49 info: Token decoded successfully: {"UserName":"Aditya","iat":1728964139,"exp":1729050539}
+2024-10-15 20:29:44 info: Certificates loaded successfully.
+2024-10-15 20:29:45 info: Server running on port 3000
+2024-10-15 20:29:55 info: Token decoded successfully: {"UserName":"Aditya","iat":1728964139,"exp":1729050539}
+2024-10-15 20:30:24 info: Certificates loaded successfully.
+2024-10-15 20:30:24 info: Server running on port 3000
+2024-10-15 20:32:39 info: Certificates loaded successfully.
+2024-10-15 20:32:39 info: Server running on port 3000
+2024-10-15 20:32:50 info: Token decoded successfully: {"UserName":"Aditya","iat":1728964139,"exp":1729050539}
+2024-10-15 20:36:08 info: Token decoded successfully: {"UserName":"Aditya","iat":1728964139,"exp":1729050539}
+2024-10-15 20:44:08 info: Certificates loaded successfully.
+2024-10-15 20:44:08 info: Server running on port 3000
+2024-10-15 20:44:13 info: Token decoded successfully: {"UserName":"Aditya","iat":1728964139,"exp":1729050539}
+2024-10-15 20:46:11 info: Token decoded successfully: {"UserName":"Aditya","iat":1728964139,"exp":1729050539}
+2024-10-15 20:46:55 info: Certificates loaded successfully.
+2024-10-15 20:46:55 info: Server running on port 3000
+2024-10-17 12:00:41 info: Certificates loaded successfully.
+2024-10-17 12:00:41 info: Server running on port 3000
+2024-10-17 12:02:28 info: Certificates loaded successfully.
+2024-10-17 12:02:28 info: Server running on port 3000
+2024-10-17 12:02:33 info: Token decoded successfully: {"UserName":"Aditya","iat":1729065225,"exp":1729151625}
+2024-10-17 12:05:53 info: Token decoded successfully: {"UserName":"Aditya","iat":1729065225,"exp":1729151625}
+2024-10-17 12:06:16 info: Token decoded successfully: {"UserName":"Aditya","iat":1729065225,"exp":1729151625}
+2024-10-17 12:12:54 info: Token decoded successfully: {"UserName":"Aditya","iat":1729065225,"exp":1729151625}
+2024-10-17 12:13:30 info: Certificates loaded successfully.
+2024-10-17 12:13:30 info: Server running on port 3000
+2024-10-17 12:13:33 info: Token decoded successfully: {"UserName":"Aditya","iat":1729065225,"exp":1729151625}
+2024-10-17 12:17:07 info: Token decoded successfully: {"UserName":"Aditya","iat":1729065225,"exp":1729151625}
+2024-10-17 12:17:59 info: Certificates loaded successfully.
+2024-10-17 12:17:59 info: Server running on port 3000
+2024-10-29 11:00:55 info: Certificates loaded successfully.
+2024-10-29 11:00:55 info: Server running on port 3000
+2024-10-29 11:01:55 info: Token decoded successfully: {"UserName":"Aditya","iat":1730179823,"exp":1730266223}
+2024-10-29 11:02:09 info: Token decoded successfully: {"UserName":"Aditya","iat":1730179823,"exp":1730266223}
+2024-10-29 11:28:25 info: Certificates loaded successfully.
+2024-10-29 11:28:25 info: Server running on port 3000
+2024-10-29 11:29:37 info: Certificates loaded successfully.
+2024-10-29 11:29:38 info: Server running on port 3000
+2024-10-29 11:30:32 info: Token decoded successfully: {"UserName":"Aditya","iat":1730179823,"exp":1730266223}
+2024-10-29 11:31:24 info: Certificates loaded successfully.
+2024-10-29 11:31:24 info: Server running on port 3000
+2024-10-29 11:31:27 info: Token decoded successfully: {"UserName":"Aditya","iat":1730179823,"exp":1730266223}
+2024-10-29 11:31:46 info: Token decoded successfully: {"UserName":"Aditya","iat":1730179823,"exp":1730266223}
+2024-10-29 11:32:42 info: Certificates loaded successfully.
+2024-10-29 11:32:42 info: Server running on port 3000
+2024-10-29 11:38:12 info: Certificates loaded successfully.
+2024-10-29 11:38:12 info: Server running on port 3000
+2024-10-29 11:38:15 info: Token decoded successfully: {"UserName":"Aditya","iat":1730179823,"exp":1730266223}
+2024-10-29 11:39:02 info: Certificates loaded successfully.
+2024-10-29 11:39:02 info: Server running on port 3000
+2024-10-29 11:39:06 info: Token decoded successfully: {"UserName":"Aditya","iat":1730179823,"exp":1730266223}
+2024-10-29 11:42:13 info: Certificates loaded successfully.
+2024-10-29 11:42:13 info: Server running on port 3000
+2024-10-29 11:42:17 info: Token decoded successfully: {"UserName":"Aditya","iat":1730179823,"exp":1730266223}
+2024-10-29 11:50:34 info: Certificates loaded successfully.
+2024-10-29 11:50:34 info: Server running on port 3000
+2024-10-29 11:50:42 info: Token decoded successfully: {"UserName":"Aditya","iat":1730179823,"exp":1730266223}
+2024-10-29 11:52:27 info: Certificates loaded successfully.
+2024-10-29 11:52:27 info: Server running on port 3000
+2024-10-29 11:52:37 info: Token decoded successfully: {"UserName":"Aditya","iat":1730179823,"exp":1730266223}
+2024-10-29 14:04:01 info: Certificates loaded successfully.
+2024-10-29 14:04:01 info: Server running on port 3000
+2024-10-29 14:04:20 info: Token decoded successfully: {"UserName":"Aditya","iat":1730179823,"exp":1730266223}
+2024-11-04 16:49:23 info: Certificates loaded successfully.
+2024-11-04 16:49:23 info: Server running on port 3000
+2024-11-06 20:06:40 info: Certificates loaded successfully.
+2024-11-06 20:06:40 info: Server running on port 3000
+2024-11-08 09:37:33 info: Certificates loaded successfully.
+2024-11-08 09:37:33 info: Server running on port 3000
+2024-11-08 09:56:11 info: Certificates loaded successfully.
+2024-11-08 09:56:12 info: Server running on port 3000
+2024-11-08 09:56:59 info: Certificates loaded successfully.
+2024-11-08 09:56:59 info: Server running on port 3000
+2024-11-08 09:57:25 info: Token decoded successfully: {"unique_name":"Aditya","nbf":1731039225,"exp":1731125625,"iat":1731039225}
+2024-11-08 09:57:40 info: Token decoded successfully: {"unique_name":"Aditya","nbf":1731039225,"exp":1731125625,"iat":1731039225}
+2024-11-08 09:58:10 info: Token decoded successfully: {"unique_name":"Aditya","nbf":1731040043,"exp":1731126443,"iat":1731040043}
+2024-11-08 10:01:01 info: Certificates loaded successfully.
+2024-11-08 10:01:01 info: Server running on port 3000
+2024-11-08 10:04:03 info: Token decoded successfully: {"unique_name":"Aditya","nbf":1731040397,"exp":1731126797,"iat":1731040397}
+2024-11-08 10:04:27 info: Token decoded successfully: {"unique_name":"Aditya","nbf":1731040397,"exp":1731126797,"iat":1731040397}
+2024-11-08 10:07:16 info: Token decoded successfully: {"unique_name":"Aditya","nbf":1731040575,"exp":1731126975,"iat":1731040575}
+2024-11-08 12:48:47 info: Certificates loaded successfully.
+2024-11-08 12:48:47 info: Server running on port 3000
+2024-11-08 12:50:50 info: Token decoded successfully: {"username":"Aditya","iat":1731050356,"exp":1731136756}
+2024-11-08 12:51:09 info: Token decoded successfully: {"username":"Aditya","iat":1731050356,"exp":1731136756}
+2024-11-08 12:54:00 info: Certificates loaded successfully.
+2024-11-08 12:54:00 info: Server running on port 3000
+2024-11-08 12:54:04 info: Token decoded successfully: {"username":"Aditya","iat":1731050356,"exp":1731136756}
+2024-11-08 12:57:44 info: Certificates loaded successfully.
+2024-11-08 12:57:44 info: Server running on port 3000
+2024-11-08 12:57:49 info: Token decoded successfully: {"username":"Aditya","iat":1731050356,"exp":1731136756}
+2024-11-08 12:57:51 info: Token decoded successfully: {"username":"Aditya","iat":1731050356,"exp":1731136756}
+2024-11-08 12:58:33 info: Certificates loaded successfully.
+2024-11-08 12:58:33 info: Server running on port 3000
+2024-11-08 12:58:40 info: Token decoded successfully: {"username":"Aditya","iat":1731050356,"exp":1731136756}
+2024-11-08 12:58:42 info: Token decoded successfully: {"username":"Aditya","iat":1731050356,"exp":1731136756}
+2024-11-08 12:59:13 info: Certificates loaded successfully.
+2024-11-08 12:59:13 info: Server running on port 3000
+2024-11-08 12:59:44 error: Token verification error invalid signature
+2024-11-08 13:00:23 info: Token decoded successfully: {"username":"Aditya","iat":1731051013,"exp":1731137413}
+2024-11-09 01:59:40 info: Certificates loaded successfully.
+2024-11-09 01:59:40 info: Server running on port 3000
+2024-11-09 02:00:34 info: Token decoded successfully: {"unique_name":"Aditya","nbf":1731097812,"exp":1731184212,"iat":1731097812}
+2024-11-09 02:01:03 info: Token decoded successfully: {"unique_name":"Aditya","nbf":1731097827,"exp":1731184227,"iat":1731097827}
+2024-11-09 12:57:20 info: Certificates loaded successfully.
+2024-11-09 12:57:21 info: Server running on port 3000
+2024-11-09 12:57:55 info: Token decoded successfully: {"unique_name":"Aditya","nbf":1731137186,"exp":1731223586,"iat":1731137186}
+2024-11-09 12:59:02 info: Token decoded successfully: {"unique_name":"Aditya","nbf":1731137292,"exp":1731223692,"iat":1731137292}
+2024-11-09 12:59:23 info: Token decoded successfully: {"unique_name":"Aditya","nbf":1731137292,"exp":1731223692,"iat":1731137292}
+2024-11-19 10:10:43 info: Certificates loaded successfully.
+2024-11-19 10:10:43 info: Server running on port 3000
+2024-11-19 10:13:14 info: Token decoded successfully: {"username":"Tokyo","iat":1731991244,"exp":1732077644}
+2024-11-19 10:13:22 info: Token decoded successfully: {"username":"Tokyo","iat":1731991244,"exp":1732077644}
+2024-11-20 16:41:31 info: Certificates loaded successfully.
+2024-11-20 16:41:31 info: Server running on port 3000
+2024-11-20 16:49:03 info: Token decoded successfully: {"username":"Tokyo","iat":1732101175,"exp":1732187575}
+2024-11-20 17:19:03 info: Token decoded successfully: {"username":"Tokyo","iat":1732101175,"exp":1732187575}
+2024-11-20 17:19:34 info: Certificates loaded successfully.
+2024-11-20 17:19:34 info: Server running on port 3000
+2024-11-20 17:19:38 info: Token decoded successfully: {"username":"Tokyo","iat":1732101175,"exp":1732187575}
+2024-11-20 17:22:07 info: Certificates loaded successfully.
+2024-11-20 17:22:07 info: Server running on port 3000
+2024-11-20 17:22:12 info: Token decoded successfully: {"username":"Tokyo","iat":1732101175,"exp":1732187575}
+2024-11-20 17:23:02 info: Certificates loaded successfully.
+2024-11-20 17:23:02 info: Server running on port 3000
+2024-11-20 17:23:07 info: Token decoded successfully: {"username":"Tokyo","iat":1732101175,"exp":1732187575}
+2024-11-20 17:25:41 info: Certificates loaded successfully.
+2024-11-20 17:25:42 info: Server running on port 3000
+2024-11-20 17:25:46 info: Token decoded successfully: {"username":"Tokyo","iat":1732101175,"exp":1732187575}
+2024-11-20 17:27:00 info: Certificates loaded successfully.
+2024-11-20 17:27:00 info: Server running on port 3000
+2024-11-20 17:27:03 info: Token decoded successfully: {"username":"Tokyo","iat":1732101175,"exp":1732187575}
+2024-11-20 17:28:06 info: Certificates loaded successfully.
+2024-11-20 17:28:06 info: Server running on port 3000
+2024-11-20 17:28:12 info: Token decoded successfully: {"username":"Tokyo","iat":1732101175,"exp":1732187575}
+2024-11-20 17:28:13 info: Token decoded successfully: {"username":"Tokyo","iat":1732101175,"exp":1732187575}
+2024-11-20 17:28:15 info: Token decoded successfully: {"username":"Tokyo","iat":1732101175,"exp":1732187575}
+2024-11-20 17:32:03 info: Token decoded successfully: {"username":"Tokyo","iat":1732101175,"exp":1732187575}
+2024-11-20 17:32:04 info: Token decoded successfully: {"username":"Tokyo","iat":1732101175,"exp":1732187575}
+2024-11-20 17:32:16 info: Certificates loaded successfully.
+2024-11-20 17:32:16 info: Server running on port 3000
+2024-11-20 17:32:20 info: Token decoded successfully: {"username":"Tokyo","iat":1732101175,"exp":1732187575}
+2024-11-20 17:32:22 info: Token decoded successfully: {"username":"Tokyo","iat":1732101175,"exp":1732187575}
+2024-11-20 17:34:35 info: Certificates loaded successfully.
+2024-11-20 17:34:35 info: Server running on port 3000
+2024-11-20 17:34:38 info: Token decoded successfully: {"username":"Tokyo","iat":1732101175,"exp":1732187575}
+2024-11-20 17:36:15 info: Certificates loaded successfully.
+2024-11-20 17:36:15 info: Server running on port 3000
+2024-11-20 17:36:35 info: Token decoded successfully: {"username":"Tokyo","iat":1732101175,"exp":1732187575}
+2024-11-20 17:42:50 info: Token decoded successfully: {"username":"Tokyo","iat":1732101175,"exp":1732187575}
+2024-11-20 17:52:17 info: Certificates loaded successfully.
+2024-11-20 17:52:18 info: Server running on port 3000
+2024-11-20 17:53:17 info: Token decoded successfully: {"username":"Tokyo","iat":1732101175,"exp":1732187575}
+2024-11-20 17:53:24 info: Token decoded successfully: {"username":"Tokyo","iat":1732101175,"exp":1732187575}
+2024-11-20 18:01:26 info: Token decoded successfully: {"username":"Tokyo","iat":1732101175,"exp":1732187575}
+2024-11-20 18:01:33 info: Token decoded successfully: {"username":"Tokyo","iat":1732101175,"exp":1732187575}
+2024-11-20 18:02:23 info: Token decoded successfully: {"username":"Tokyo","iat":1732101175,"exp":1732187575}
+2024-11-20 18:02:35 info: Certificates loaded successfully.
+2024-11-20 18:02:35 info: Server running on port 3000
+2024-11-20 18:02:46 info: Token decoded successfully: {"username":"Tokyo","iat":1732101175,"exp":1732187575}
+2024-11-20 18:02:56 info: Token decoded successfully: {"username":"Tokyo","iat":1732101175,"exp":1732187575}
+2024-11-20 18:03:18 info: Token decoded successfully: {"username":"Tokyo","iat":1732101175,"exp":1732187575}
+2024-11-20 18:03:19 info: Token decoded successfully: {"username":"Tokyo","iat":1732101175,"exp":1732187575}
+2024-11-20 18:03:30 info: Certificates loaded successfully.
+2024-11-20 18:03:30 info: Server running on port 3000
+2024-11-20 18:03:35 info: Token decoded successfully: {"username":"Tokyo","iat":1732101175,"exp":1732187575}
+2024-11-20 18:03:43 info: Token decoded successfully: {"username":"Tokyo","iat":1732101175,"exp":1732187575}
+2024-11-20 18:05:03 info: Certificates loaded successfully.
+2024-11-20 18:05:03 info: Server running on port 3000
+2024-11-20 18:05:07 info: Token decoded successfully: {"username":"Tokyo","iat":1732101175,"exp":1732187575}
+2024-11-20 18:05:15 info: Token decoded successfully: {"username":"Tokyo","iat":1732101175,"exp":1732187575}
+2024-11-20 18:07:25 info: Token decoded successfully: {"username":"Tokyo","iat":1732101175,"exp":1732187575}
+2024-11-20 18:08:27 info: Certificates loaded successfully.
+2024-11-20 18:08:27 info: Server running on port 3000
+2024-11-20 18:08:35 info: Token decoded successfully: {"username":"Tokyo","iat":1732101175,"exp":1732187575}
+2024-11-20 18:14:18 info: Certificates loaded successfully.
+2024-11-20 18:14:18 info: Server running on port 3000
+2024-11-20 18:14:21 info: Token decoded successfully: {"username":"Tokyo","iat":1732101175,"exp":1732187575}
+2024-11-20 18:14:47 info: Token decoded successfully: {"username":"Tokyo","iat":1732101175,"exp":1732187575}
+2024-11-20 18:14:56 info: Token decoded successfully: {"username":"Tokyo","iat":1732101175,"exp":1732187575}
+2024-11-20 18:20:18 info: Certificates loaded successfully.
+2024-11-20 18:20:18 info: Server running on port 3000
+2024-11-20 18:20:22 info: Token decoded successfully: {"username":"Tokyo","iat":1732101175,"exp":1732187575}
+2024-11-20 18:21:01 info: Certificates loaded successfully.
+2024-11-20 18:21:01 info: Server running on port 3000
+2024-11-20 18:21:04 info: Token decoded successfully: {"username":"Tokyo","iat":1732101175,"exp":1732187575}
+2024-11-29 10:33:52 info: Certificates loaded successfully.
+2024-11-29 10:33:52 info: Server running on port 3000
+2024-11-29 10:35:34 info: Certificates loaded successfully.
+2024-11-29 10:35:34 info: Server running on port 3000
+2024-11-29 10:37:01 info: Token decoded successfully: {"username":"Tokyo","iat":1732856700,"exp":1732943100}
+2024-11-29 10:38:59 info: Token decoded successfully: {"username":"Tokyo","iat":1732856700,"exp":1732943100}
+2024-11-29 13:41:53 info: Certificates loaded successfully.
+2024-11-29 13:41:53 info: Server running on port 3000
+2024-11-29 13:43:48 info: Token decoded successfully: {"username":"Tokyo","iat":1732856700,"exp":1732943100}
+2024-11-29 13:45:16 info: Certificates loaded successfully.
+2024-11-29 13:45:16 info: Server running on port 3000
+2024-11-29 13:45:24 info: Token decoded successfully: {"username":"Tokyo","iat":1732856700,"exp":1732943100}
+2024-11-29 13:48:31 info: Certificates loaded successfully.
+2024-11-29 13:48:31 info: Server running on port 3000
+2024-11-29 13:48:38 info: Token decoded successfully: {"username":"Tokyo","iat":1732856700,"exp":1732943100}
+2024-11-29 13:49:29 info: Certificates loaded successfully.
+2024-11-29 13:49:29 info: Server running on port 3000
+2024-11-29 13:49:33 info: Token decoded successfully: {"username":"Tokyo","iat":1732856700,"exp":1732943100}
+2024-11-29 13:51:36 info: Certificates loaded successfully.
+2024-11-29 13:51:36 info: Server running on port 3000
+2024-11-29 13:51:40 info: Token decoded successfully: {"username":"Tokyo","iat":1732856700,"exp":1732943100}
+2024-11-29 14:23:52 info: Token decoded successfully: {"username":"Tokyo","iat":1732856700,"exp":1732943100}
+2024-11-29 14:24:24 info: Certificates loaded successfully.
+2024-11-29 14:24:24 info: Server running on port 3000
+2024-11-29 14:24:30 info: Token decoded successfully: {"username":"Tokyo","iat":1732856700,"exp":1732943100}
+2024-11-29 14:29:27 info: Certificates loaded successfully.
+2024-11-29 14:29:27 info: Server running on port 3000
+2024-11-29 14:29:34 info: Token decoded successfully: {"username":"Tokyo","iat":1732856700,"exp":1732943100}
+2024-11-29 14:42:19 info: Certificates loaded successfully.
+2024-11-29 14:42:19 info: Server running on port 3000
+2024-11-29 14:42:23 info: Token decoded successfully: {"username":"Tokyo","iat":1732856700,"exp":1732943100}
+2024-11-29 14:53:00 info: Certificates loaded successfully.
+2024-11-29 14:53:00 info: Server running on port 3000
+2024-11-29 14:53:04 info: Token decoded successfully: {"username":"Tokyo","iat":1732856700,"exp":1732943100}
+2024-11-29 14:54:07 info: Token decoded successfully: {"username":"Tokyo","iat":1732856700,"exp":1732943100}
+2024-11-29 14:58:04 info: Certificates loaded successfully.
+2024-11-29 14:58:04 info: Server running on port 3000
+2024-11-29 15:12:58 info: Certificates loaded successfully.
+2024-11-29 15:12:58 info: Server running on port 3000
+2024-11-29 15:19:22 info: Certificates loaded successfully.
+2024-11-29 15:19:22 info: Server running on port 3000
+2024-11-29 15:37:43 info: Certificates loaded successfully.
+2024-11-29 15:37:43 info: Server running on port 3000
+2024-11-29 15:37:52 info: Token decoded successfully: {"username":"Tokyo","iat":1732856700,"exp":1732943100}
+2024-11-29 15:38:42 info: Certificates loaded successfully.
+2024-11-29 15:38:42 info: Server running on port 3000
+2024-11-29 15:38:45 info: Token decoded successfully: {"username":"Tokyo","iat":1732856700,"exp":1732943100}
+2024-11-29 15:38:53 error: Token verification error
+2024-11-29 15:39:08 info: Token decoded successfully: {"username":"Tokyo","iat":1732856700,"exp":1732943100}
+2024-11-29 15:39:13 info: Token decoded successfully: {"username":"Tokyo","iat":1732856700,"exp":1732943100}
+2024-11-29 15:39:37 info: Token decoded successfully: {"username":"Tokyo","iat":1732856700,"exp":1732943100}
+2024-11-29 15:42:03 info: Certificates loaded successfully.
+2024-11-29 15:42:03 info: Server running on port 3000
+2024-11-29 15:42:14 info: Token decoded successfully: {"username":"Tokyo","iat":1732856700,"exp":1732943100}
+2024-11-29 15:42:47 info: Certificates loaded successfully.
+2024-11-29 15:42:47 info: Server running on port 3000
+2024-11-29 15:42:51 info: Token decoded successfully: {"username":"Tokyo","iat":1732856700,"exp":1732943100}
+2024-11-29 15:42:52 info: Token decoded successfully: {"username":"Tokyo","iat":1732856700,"exp":1732943100}
+2024-11-29 15:50:27 info: Certificates loaded successfully.
+2024-11-29 15:50:27 info: Server running on port 3000
+2024-12-11 13:16:04 info: Certificates loaded successfully.
+2024-12-11 13:16:04 info: Server running on port 3000
+2024-12-11 13:16:09 error: Token verification error
+2024-12-11 13:16:32 info: Token decoded successfully: {"unique_name":"siva","nbf":1733891241,"exp":1733977641,"iat":1733891241}
+2024-12-13 17:31:39 info: Certificates loaded successfully.
+2024-12-13 17:31:39 info: Server running on port 3000
+2024-12-13 17:31:43 error: Token verification error
+2024-12-13 17:33:14 info: Token decoded successfully: {"unique_name":"siva","nbf":1734091316,"exp":1734177716,"iat":1734091316}
+2024-12-13 17:44:25 info: Token decoded successfully: {"unique_name":"siva","nbf":1734091316,"exp":1734177716,"iat":1734091316}
+2024-12-13 17:44:43 info: Certificates loaded successfully.
+2024-12-13 17:44:43 info: Server running on port 3000
+2024-12-13 17:44:59 info: Token decoded successfully: {"unique_name":"siva","nbf":1734091316,"exp":1734177716,"iat":1734091316}
+2024-12-13 17:46:47 info: Token decoded successfully: {"unique_name":"siva","nbf":1734091316,"exp":1734177716,"iat":1734091316}
+2024-12-13 18:05:50 info: Certificates loaded successfully.
+2024-12-13 18:05:50 info: Server running on port 3000
+2024-12-13 18:06:24 info: Token decoded successfully: {"unique_name":"siva","nbf":1734091316,"exp":1734177716,"iat":1734091316}
+2024-12-17 10:49:23 info: Certificates loaded successfully.
+2024-12-17 10:49:23 info: Server running on port 3000
+2024-12-17 10:50:00 info: Token decoded successfully: {"unique_name":"hari","nbf":1734410288,"exp":1734496688,"iat":1734410288}
+2024-12-17 10:50:00 info: getSaleTransactionsReports called
+2024-12-17 10:50:00 info: Request body:
+2024-12-17 10:50:00 info: Parsed financial years:
+2024-12-17 10:50:00 info: Fetched 8155 sale transactions
+2024-12-17 10:50:00 info: Filtered transactions count: 8155
+2024-12-17 10:50:01 info: Generated sale transactions report successfully
+2024-12-17 10:51:42 info: Certificates loaded successfully.
+2024-12-17 10:51:42 info: Server running on port 3000
+2024-12-17 10:51:51 info: Token decoded successfully: {"unique_name":"hari","nbf":1734410288,"exp":1734496688,"iat":1734410288}
+2024-12-17 10:51:51 info: getSaleTransactionsReports called
+2024-12-17 10:51:51 info: Request body:
+2024-12-17 10:51:51 info: Parsed financial years:
+2024-12-17 10:51:51 info: Fetched 8155 sale transactions
+2024-12-17 10:51:51 info: Filtered transactions count: 8155
+2024-12-17 10:51:51 info: Generated sale transactions report successfully
+2024-12-17 11:07:59 info: Certificates loaded successfully.
+2024-12-17 11:07:59 info: Server running on port 3000
+2024-12-17 11:08:10 info: Token decoded successfully: {"unique_name":"hari","nbf":1734410288,"exp":1734496688,"iat":1734410288}
+2024-12-17 11:08:10 info: getSaleTransactionsReports called
+2024-12-17 11:08:10 info: Request body:
+2024-12-17 11:08:10 info: Parsed financial years:
+2024-12-17 11:08:11 info: Fetched 8155 sale transactions
+2024-12-17 11:08:11 info: Filtered transactions count: 8155
+2024-12-17 11:08:11 info: Generated sale transactions report successfully
+2024-12-24 15:12:45 info: Certificates loaded successfully.
+2024-12-24 15:12:46 info: Server running on port 3000
+2024-12-24 15:15:10 info: Certificates loaded successfully.
+2024-12-24 15:15:10 info: Server running on port 3000
+2024-12-24 15:15:25 info: Token decoded successfully: {"unique_name":"Hari","nbf":1735022921,"exp":1735109321,"iat":1735022921}
+2024-12-24 15:43:59 info: Certificates loaded successfully.
+2024-12-24 15:43:59 info: Server running on port 3000
+2024-12-24 16:47:41 info: Certificates loaded successfully.
+2024-12-24 16:47:41 info: Server running on port 3000
+2024-12-24 18:23:17 info: Certificates loaded successfully.
+2024-12-24 18:23:17 info: Server running on port 3000
+2024-12-24 18:37:30 info: Certificates loaded successfully.
+2024-12-24 18:37:31 info: Server running on port 3000
+2024-12-24 18:37:42 info: Token decoded successfully: {"unique_name":"Hari","nbf":1735022921,"exp":1735109321,"iat":1735022921}
+2024-12-24 18:38:21 info: Token decoded successfully: {"unique_name":"Hari","nbf":1735022921,"exp":1735109321,"iat":1735022921}
+2024-12-25 16:29:13 info: Certificates loaded successfully.
+2024-12-25 16:29:13 info: Server running on port 3000
+2024-12-25 16:29:39 info: Token decoded successfully: {"unique_name":"Hari","nbf":1735110861,"exp":1735197261,"iat":1735110861}
+2024-12-25 16:29:54 info: Token decoded successfully: {"unique_name":"Hari","nbf":1735110861,"exp":1735197261,"iat":1735110861}
+2025-01-02 16:24:44 info: Certificates loaded successfully.
+2025-01-02 16:24:44 info: Server running on port 3000
+2025-01-02 16:26:22 info: Token decoded successfully: {"unique_name":"Aditya","nbf":1735796122,"exp":1735882522,"iat":1735796122}
+2025-01-03 13:19:53 info: Certificates loaded successfully.
+2025-01-03 13:19:53 info: Server running on port 3000
+2025-01-17 11:51:21 info: Certificates loaded successfully.
+2025-01-17 11:51:21 info: Server running on port 3000
+2025-01-17 12:09:35 info: Certificates loaded successfully.
+2025-01-17 12:09:35 info: Server running on port 3000
+2025-01-23 19:19:00 info: Certificates loaded successfully.
+2025-01-23 19:19:01 info: Server running on port 3000
+2025-01-23 19:24:17 info: Token decoded successfully: {"unique_name":"Tokyo","nbf":1737622235,"exp":1737708635,"iat":1737622235}
+2025-01-23 19:36:06 info: Certificates loaded successfully.
+2025-01-23 19:36:06 info: Server running on port 3000
+2025-01-23 19:36:19 info: Token decoded successfully: {"unique_name":"Tokyo","nbf":1737622235,"exp":1737708635,"iat":1737622235}
+2025-01-23 19:37:09 info: Certificates loaded successfully.
+2025-01-23 19:37:10 info: Server running on port 3000
+2025-01-23 19:37:14 info: Token decoded successfully: {"unique_name":"Tokyo","nbf":1737622235,"exp":1737708635,"iat":1737622235}
+2025-01-23 19:38:19 info: Token decoded successfully: {"unique_name":"Tokyo","nbf":1737622235,"exp":1737708635,"iat":1737622235}
+2025-01-23 19:39:27 info: Token decoded successfully: {"unique_name":"Tokyo","nbf":1737622235,"exp":1737708635,"iat":1737622235}
+2025-01-23 19:39:37 info: Token decoded successfully: {"unique_name":"Tokyo","nbf":1737622235,"exp":1737708635,"iat":1737622235}
+2025-01-23 19:39:47 info: Token decoded successfully: {"unique_name":"Tokyo","nbf":1737622235,"exp":1737708635,"iat":1737622235}
+2025-01-23 19:39:53 info: Token decoded successfully: {"unique_name":"Tokyo","nbf":1737622235,"exp":1737708635,"iat":1737622235}
+2025-01-23 19:42:31 info: Token decoded successfully: {"unique_name":"Tokyo","nbf":1737622235,"exp":1737708635,"iat":1737622235}
+2025-01-23 19:44:55 info: Certificates loaded successfully.
+2025-01-23 19:44:55 info: Server running on port 3000
+2025-01-23 19:44:59 info: Token decoded successfully: {"unique_name":"Tokyo","nbf":1737622235,"exp":1737708635,"iat":1737622235}
+2025-01-23 19:45:34 info: Certificates loaded successfully.
+2025-01-23 19:45:34 info: Server running on port 3000
+2025-01-23 19:45:38 info: Token decoded successfully: {"unique_name":"Tokyo","nbf":1737622235,"exp":1737708635,"iat":1737622235}
+2025-01-23 19:46:19 info: Token decoded successfully: {"unique_name":"Tokyo","nbf":1737622235,"exp":1737708635,"iat":1737622235}
+2025-01-23 19:52:08 info: Token decoded successfully: {"unique_name":"Tokyo","nbf":1737622235,"exp":1737708635,"iat":1737622235}
+2025-01-23 19:52:57 info: Token decoded successfully: {"unique_name":"Tokyo","nbf":1737622235,"exp":1737708635,"iat":1737622235}
+2025-01-23 20:03:10 info: Token decoded successfully: {"unique_name":"Tokyo","nbf":1737622235,"exp":1737708635,"iat":1737622235}
+2025-01-23 20:06:23 info: Certificates loaded successfully.
+2025-01-23 20:06:23 info: Server running on port 3000
+2025-01-23 20:06:28 info: Token decoded successfully: {"unique_name":"Tokyo","nbf":1737622235,"exp":1737708635,"iat":1737622235}
+2025-01-23 20:06:43 info: Token decoded successfully: {"unique_name":"Tokyo","nbf":1737622235,"exp":1737708635,"iat":1737622235}
+2025-01-24 17:05:03 info: Certificates loaded successfully.
+2025-01-24 17:05:03 info: Server running on port 3000
+2025-01-27 16:47:37 info: Certificates loaded successfully.
+2025-01-27 16:47:38 info: Server running on port 3000
+2025-01-27 16:50:45 info: Token decoded successfully: {"unique_name":"Tokyo","nbf":1737976012,"exp":1738062412,"iat":1737976012}
+2025-01-27 16:51:27 info: Certificates loaded successfully.
+2025-01-27 16:51:27 info: Server running on port 3000
+2025-01-27 16:51:42 info: Token decoded successfully: {"unique_name":"Tokyo","nbf":1737976012,"exp":1738062412,"iat":1737976012}
+2025-01-27 16:52:29 error: Token verification error
+2025-01-27 16:52:50 info: Token decoded successfully: {"unique_name":"Tokyo","nbf":1737976012,"exp":1738062412,"iat":1737976012}
+2025-01-29 12:02:43 info: Certificates loaded successfully.
+2025-01-29 12:02:43 info: Server running on port 3000
+2025-01-30 12:28:33 info: Certificates loaded successfully.
+2025-01-30 12:28:34 info: Server running on port 3000
+2025-01-30 12:28:39 info: Token decoded successfully: {"unique_name":"Tokyo","nbf":1738219993,"exp":1738306393,"iat":1738219993}
+2025-01-30 12:30:48 info: Token decoded successfully: {"unique_name":"Tokyo","nbf":1738219993,"exp":1738306393,"iat":1738219993}
+2025-01-30 12:36:59 info: Certificates loaded successfully.
+2025-01-30 12:37:00 info: Server running on port 3000
+2025-01-30 12:37:04 info: Token decoded successfully: {"unique_name":"Tokyo","nbf":1738219993,"exp":1738306393,"iat":1738219993}
+2025-01-30 12:39:27 info: Certificates loaded successfully.
+2025-01-30 12:39:27 info: Server running on port 3000
+2025-01-30 12:39:32 info: Token decoded successfully: {"unique_name":"Tokyo","nbf":1738219993,"exp":1738306393,"iat":1738219993}
+2025-01-30 12:42:09 info: Token decoded successfully: {"unique_name":"Tokyo","nbf":1738219993,"exp":1738306393,"iat":1738219993}
+2025-01-30 12:43:31 info: Token decoded successfully: {"unique_name":"Tokyo","nbf":1738219993,"exp":1738306393,"iat":1738219993}
+2025-02-12 15:53:58 info: Certificates loaded successfully.
+2025-02-12 15:53:59 info: Server running on port 3000
+2025-02-12 16:02:13 info: Token decoded successfully: {"unique_name":"Tokyo","nbf":1739348593,"exp":1739434993,"iat":1739348593}
+2025-02-12 16:34:08 info: Certificates loaded successfully.
+2025-02-12 16:34:08 info: Server running on port 3000
+2025-02-12 16:34:17 info: Token decoded successfully: {"unique_name":"Tokyo","nbf":1739348593,"exp":1739434993,"iat":1739348593}
+2025-02-12 16:38:33 info: Certificates loaded successfully.
+2025-02-12 16:38:33 info: Server running on port 3000
+2025-02-12 16:38:37 info: Token decoded successfully: {"unique_name":"Tokyo","nbf":1739348593,"exp":1739434993,"iat":1739348593}
+2025-02-12 16:43:44 info: Certificates loaded successfully.
+2025-02-12 16:43:44 info: Server running on port 3000
+2025-02-12 16:43:52 info: Token decoded successfully: {"unique_name":"Tokyo","nbf":1739348593,"exp":1739434993,"iat":1739348593}
+2025-02-12 16:47:35 info: Certificates loaded successfully.
+2025-02-12 16:47:35 info: Server running on port 3000
+2025-02-12 16:47:42 info: Token decoded successfully: {"unique_name":"Tokyo","nbf":1739348593,"exp":1739434993,"iat":1739348593}
+2025-02-12 16:50:12 info: Certificates loaded successfully.
+2025-02-12 16:50:12 info: Server running on port 3000
+2025-02-12 16:50:16 info: Token decoded successfully: {"unique_name":"Tokyo","nbf":1739348593,"exp":1739434993,"iat":1739348593}
+2025-02-12 16:50:44 info: Certificates loaded successfully.
+2025-02-12 16:50:44 info: Server running on port 3000
+2025-02-12 16:50:47 info: Token decoded successfully: {"unique_name":"Tokyo","nbf":1739348593,"exp":1739434993,"iat":1739348593}
+2025-02-12 16:50:49 info: Token decoded successfully: {"unique_name":"Tokyo","nbf":1739348593,"exp":1739434993,"iat":1739348593}
+2025-02-12 16:55:26 info: Certificates loaded successfully.
+2025-02-12 16:55:26 info: Server running on port 3000
+2025-02-12 16:55:38 info: Token decoded successfully: {"unique_name":"Tokyo","nbf":1739348593,"exp":1739434993,"iat":1739348593}
+2025-02-12 16:57:58 info: Certificates loaded successfully.
+2025-02-12 16:57:58 info: Server running on port 3000
+2025-02-12 16:58:02 info: Token decoded successfully: {"unique_name":"Tokyo","nbf":1739348593,"exp":1739434993,"iat":1739348593}
+2025-02-12 16:59:31 info: Token decoded successfully: {"unique_name":"Tokyo","nbf":1739348593,"exp":1739434993,"iat":1739348593}
+2025-02-12 16:59:33 info: Token decoded successfully: {"unique_name":"Tokyo","nbf":1739348593,"exp":1739434993,"iat":1739348593}
+2025-02-12 17:00:14 info: Token decoded successfully: {"unique_name":"Tokyo","nbf":1739348593,"exp":1739434993,"iat":1739348593}
+2025-02-12 17:01:05 info: Certificates loaded successfully.
+2025-02-12 17:01:05 info: Server running on port 3000
+2025-02-12 17:01:07 info: Token decoded successfully: {"unique_name":"Tokyo","nbf":1739348593,"exp":1739434993,"iat":1739348593}
+2025-02-12 17:01:54 info: Certificates loaded successfully.
+2025-02-12 17:01:54 info: Server running on port 3000
+2025-02-12 17:01:57 info: Token decoded successfully: {"unique_name":"Tokyo","nbf":1739348593,"exp":1739434993,"iat":1739348593}
+2025-02-12 17:03:30 info: Certificates loaded successfully.
+2025-02-12 17:03:30 info: Server running on port 3000
+2025-02-12 17:03:34 info: Token decoded successfully: {"unique_name":"Tokyo","nbf":1739348593,"exp":1739434993,"iat":1739348593}
+2025-02-12 17:04:58 info: Certificates loaded successfully.
+2025-02-12 17:04:58 info: Server running on port 3000
+2025-02-12 17:05:02 info: Token decoded successfully: {"unique_name":"Tokyo","nbf":1739348593,"exp":1739434993,"iat":1739348593}
+2025-02-12 17:05:33 info: Certificates loaded successfully.
+2025-02-12 17:05:33 info: Server running on port 3000
+2025-02-12 17:05:41 info: Token decoded successfully: {"unique_name":"Tokyo","nbf":1739348593,"exp":1739434993,"iat":1739348593}
+2025-02-12 17:08:00 info: Certificates loaded successfully.
+2025-02-12 17:08:00 info: Server running on port 3000
+2025-02-12 17:08:08 info: Token decoded successfully: {"unique_name":"Tokyo","nbf":1739348593,"exp":1739434993,"iat":1739348593}
+2025-02-13 11:12:07 info: Certificates loaded successfully.
+2025-02-13 11:12:07 info: Server running on port 3000
+2025-02-13 11:12:17 info: Token decoded successfully: {"unique_name":"Tokyo","nbf":1739348593,"exp":1739434993,"iat":1739348593}
+2025-02-13 11:13:15 info: Certificates loaded successfully.
+2025-02-13 11:13:15 info: Server running on port 3000
+2025-02-13 11:13:21 info: Token decoded successfully: {"unique_name":"Tokyo","nbf":1739348593,"exp":1739434993,"iat":1739348593}
+2025-02-13 11:14:33 info: Certificates loaded successfully.
+2025-02-13 11:14:33 info: Server running on port 3000
+2025-02-13 11:14:47 info: Token decoded successfully: {"unique_name":"Tokyo","nbf":1739348593,"exp":1739434993,"iat":1739348593}
+2025-02-13 11:21:07 info: Certificates loaded successfully.
+2025-02-13 11:21:07 info: Server running on port 3000
+2025-02-13 11:21:10 info: Token decoded successfully: {"unique_name":"Tokyo","nbf":1739348593,"exp":1739434993,"iat":1739348593}
+2025-02-13 11:24:14 info: Certificates loaded successfully.
+2025-02-13 11:24:14 info: Server running on port 3000
+2025-02-13 11:24:18 info: Token decoded successfully: {"unique_name":"Tokyo","nbf":1739348593,"exp":1739434993,"iat":1739348593}
+2025-02-13 11:26:25 info: Certificates loaded successfully.
+2025-02-13 11:26:25 info: Server running on port 3000
+2025-02-13 11:26:29 info: Token decoded successfully: {"unique_name":"Tokyo","nbf":1739348593,"exp":1739434993,"iat":1739348593}
+2025-02-13 11:36:31 info: Certificates loaded successfully.
+2025-02-13 11:36:31 info: Server running on port 3000
+2025-02-13 11:36:35 info: Token decoded successfully: {"unique_name":"Tokyo","nbf":1739348593,"exp":1739434993,"iat":1739348593}
+2025-02-13 12:21:25 info: Certificates loaded successfully.
+2025-02-13 12:21:25 info: Server running on port 3000
+2025-02-13 12:21:36 info: Token decoded successfully: {"unique_name":"Tokyo","nbf":1739348593,"exp":1739434993,"iat":1739348593}
+2025-02-13 12:30:42 info: Certificates loaded successfully.
+2025-02-13 12:30:42 info: Server running on port 3000
+2025-02-13 12:30:54 info: Token decoded successfully: {"unique_name":"Tokyo","nbf":1739348593,"exp":1739434993,"iat":1739348593}
+2025-02-13 12:35:14 info: Certificates loaded successfully.
+2025-02-13 12:35:14 info: Server running on port 3000
+2025-02-13 12:35:22 info: Token decoded successfully: {"unique_name":"Tokyo","nbf":1739348593,"exp":1739434993,"iat":1739348593}
+2025-02-13 12:38:39 info: Certificates loaded successfully.
+2025-02-13 12:38:39 info: Server running on port 3000
+2025-02-13 12:38:50 info: Token decoded successfully: {"unique_name":"Tokyo","nbf":1739348593,"exp":1739434993,"iat":1739348593}
+2025-02-13 12:44:19 info: Certificates loaded successfully.
+2025-02-13 12:44:19 info: Server running on port 3000
+2025-02-13 12:44:24 info: Token decoded successfully: {"unique_name":"Tokyo","nbf":1739348593,"exp":1739434993,"iat":1739348593}
+2025-02-13 12:50:33 info: Certificates loaded successfully.
+2025-02-13 12:50:33 info: Server running on port 3000
+2025-02-13 12:51:53 info: Certificates loaded successfully.
+2025-02-13 12:51:54 info: Server running on port 3000
+2025-02-13 12:51:58 info: Token decoded successfully: {"unique_name":"Tokyo","nbf":1739348593,"exp":1739434993,"iat":1739348593}
+2025-02-13 12:58:01 info: Certificates loaded successfully.
+2025-02-13 12:58:01 info: Server running on port 3000
+2025-02-13 13:00:30 info: Certificates loaded successfully.
+2025-02-13 13:00:30 info: Server running on port 3000
+2025-02-13 13:00:39 info: Token decoded successfully: {"unique_name":"Tokyo","nbf":1739348593,"exp":1739434993,"iat":1739348593}
+2025-02-13 13:05:20 info: Certificates loaded successfully.
+2025-02-13 13:05:20 info: Server running on port 3000
+2025-02-13 13:05:24 info: Token decoded successfully: {"unique_name":"Tokyo","nbf":1739348593,"exp":1739434993,"iat":1739348593}
+2025-02-13 13:08:08 info: Certificates loaded successfully.
+2025-02-13 13:08:08 info: Server running on port 3000
+2025-02-13 13:08:19 info: Token decoded successfully: {"unique_name":"Tokyo","nbf":1739348593,"exp":1739434993,"iat":1739348593}
+2025-02-13 13:10:42 info: Certificates loaded successfully.
+2025-02-13 13:10:42 info: Server running on port 3000
+2025-02-13 13:10:55 info: Token decoded successfully: {"unique_name":"Tokyo","nbf":1739348593,"exp":1739434993,"iat":1739348593}
+2025-02-13 13:15:55 info: Certificates loaded successfully.
+2025-02-13 13:15:55 info: Server running on port 3000
+2025-02-13 13:16:05 info: Token decoded successfully: {"unique_name":"Tokyo","nbf":1739348593,"exp":1739434993,"iat":1739348593}
+2025-02-13 13:17:07 info: Certificates loaded successfully.
+2025-02-13 13:17:07 info: Server running on port 3000
+2025-02-13 13:17:12 info: Token decoded successfully: {"unique_name":"Tokyo","nbf":1739348593,"exp":1739434993,"iat":1739348593}
+2025-02-13 13:20:32 info: Certificates loaded successfully.
+2025-02-13 13:20:32 info: Server running on port 3000
+2025-02-13 13:20:37 info: Token decoded successfully: {"unique_name":"Tokyo","nbf":1739348593,"exp":1739434993,"iat":1739348593}
+2025-02-13 13:22:12 info: Certificates loaded successfully.
+2025-02-13 13:22:12 info: Server running on port 3000
+2025-02-13 13:22:21 info: Token decoded successfully: {"unique_name":"Tokyo","nbf":1739348593,"exp":1739434993,"iat":1739348593}
+2025-02-13 15:43:52 info: Certificates loaded successfully.
+2025-02-13 15:43:52 info: Server running on port 3000
+2025-02-13 15:46:22 info: Token decoded successfully: {"unique_name":"Tokyo","nbf":1739422682,"exp":1739509082,"iat":1739422682}
+2025-02-13 15:46:34 info: Token decoded successfully: {"unique_name":"Tokyo","nbf":1739422682,"exp":1739509082,"iat":1739422682}
+2025-02-13 15:46:39 info: Token decoded successfully: {"unique_name":"Tokyo","nbf":1739422682,"exp":1739509082,"iat":1739422682}
+2025-02-13 15:46:48 info: Token decoded successfully: {"unique_name":"Tokyo","nbf":1739422682,"exp":1739509082,"iat":1739422682}
+2025-02-13 15:46:50 info: Token decoded successfully: {"unique_name":"Tokyo","nbf":1739422682,"exp":1739509082,"iat":1739422682}
+2025-02-13 15:47:52 info: Certificates loaded successfully.
+2025-02-13 15:47:52 info: Server running on port 3000
+2025-02-13 15:49:29 info: Token decoded successfully: {"unique_name":"Tokyo","nbf":1739422682,"exp":1739509082,"iat":1739422682}
+2025-02-13 15:57:55 info: Certificates loaded successfully.
+2025-02-13 15:57:55 info: Server running on port 3000
+2025-02-13 15:58:00 info: Token decoded successfully: {"unique_name":"Tokyo","nbf":1739422682,"exp":1739509082,"iat":1739422682}
+2025-02-13 16:00:16 info: Certificates loaded successfully.
+2025-02-13 16:00:16 info: Server running on port 3000
+2025-02-13 16:00:27 info: Token decoded successfully: {"unique_name":"Tokyo","nbf":1739422682,"exp":1739509082,"iat":1739422682}
+2025-02-13 16:03:48 info: Certificates loaded successfully.
+2025-02-13 16:03:48 info: Server running on port 3000
+2025-02-13 16:04:07 info: Token decoded successfully: {"unique_name":"Tokyo","nbf":1739422682,"exp":1739509082,"iat":1739422682}
+2025-02-13 16:08:32 info: Certificates loaded successfully.
+2025-02-13 16:08:32 info: Server running on port 3000
+2025-02-13 16:08:35 info: Token decoded successfully: {"unique_name":"Tokyo","nbf":1739422682,"exp":1739509082,"iat":1739422682}
+2025-02-13 16:10:58 info: Token decoded successfully: {"unique_name":"Tokyo","nbf":1739422682,"exp":1739509082,"iat":1739422682}
+2025-02-13 16:13:11 info: Certificates loaded successfully.
+2025-02-13 16:13:11 info: Server running on port 3000
+2025-02-13 16:13:14 info: Token decoded successfully: {"unique_name":"Tokyo","nbf":1739422682,"exp":1739509082,"iat":1739422682}
+2025-02-13 16:14:18 info: Certificates loaded successfully.
+2025-02-13 16:14:18 info: Server running on port 3000
+2025-02-13 16:14:21 info: Token decoded successfully: {"unique_name":"Tokyo","nbf":1739422682,"exp":1739509082,"iat":1739422682}
+2025-02-13 16:20:03 info: Certificates loaded successfully.
+2025-02-13 16:20:03 info: Server running on port 3000
+2025-02-13 16:20:07 info: Token decoded successfully: {"unique_name":"Tokyo","nbf":1739422682,"exp":1739509082,"iat":1739422682}
+2025-02-13 16:23:32 info: Certificates loaded successfully.
+2025-02-13 16:23:32 info: Server running on port 3000
+2025-02-13 16:23:35 info: Token decoded successfully: {"unique_name":"Tokyo","nbf":1739422682,"exp":1739509082,"iat":1739422682}
+2025-02-13 16:24:49 info: Certificates loaded successfully.
+2025-02-13 16:24:49 info: Server running on port 3000
+2025-02-13 16:24:54 info: Token decoded successfully: {"unique_name":"Tokyo","nbf":1739422682,"exp":1739509082,"iat":1739422682}
+2025-02-13 16:27:02 info: Certificates loaded successfully.
+2025-02-13 16:27:02 info: Server running on port 3000
+2025-02-13 16:27:06 info: Token decoded successfully: {"unique_name":"Tokyo","nbf":1739422682,"exp":1739509082,"iat":1739422682}
+2025-02-13 16:27:13 info: Token decoded successfully: {"unique_name":"Tokyo","nbf":1739422682,"exp":1739509082,"iat":1739422682}
+2025-02-13 16:27:19 info: Token decoded successfully: {"unique_name":"Tokyo","nbf":1739422682,"exp":1739509082,"iat":1739422682}
+2025-02-13 16:27:27 info: Token decoded successfully: {"unique_name":"Tokyo","nbf":1739422682,"exp":1739509082,"iat":1739422682}
+2025-02-13 16:27:43 info: Token decoded successfully: {"unique_name":"Tokyo","nbf":1739422682,"exp":1739509082,"iat":1739422682}
+2025-02-13 16:28:00 info: Token decoded successfully: {"unique_name":"Tokyo","nbf":1739422682,"exp":1739509082,"iat":1739422682}
+2025-02-13 16:28:02 info: Token decoded successfully: {"unique_name":"Tokyo","nbf":1739422682,"exp":1739509082,"iat":1739422682}
+2025-02-13 16:28:04 info: Token decoded successfully: {"unique_name":"Tokyo","nbf":1739422682,"exp":1739509082,"iat":1739422682}
+2025-02-13 16:28:13 info: Token decoded successfully: {"unique_name":"Tokyo","nbf":1739422682,"exp":1739509082,"iat":1739422682}
+2025-02-13 16:28:14 info: Token decoded successfully: {"unique_name":"Tokyo","nbf":1739422682,"exp":1739509082,"iat":1739422682}
+2025-02-13 16:28:16 info: Token decoded successfully: {"unique_name":"Tokyo","nbf":1739422682,"exp":1739509082,"iat":1739422682}
+2025-02-13 16:28:17 info: Token decoded successfully: {"unique_name":"Tokyo","nbf":1739422682,"exp":1739509082,"iat":1739422682}
+2025-02-13 16:28:18 info: Token decoded successfully: {"unique_name":"Tokyo","nbf":1739422682,"exp":1739509082,"iat":1739422682}
+2025-02-13 16:38:05 info: Token decoded successfully: {"unique_name":"Tokyo","nbf":1739422682,"exp":1739509082,"iat":1739422682}
+2025-02-13 16:48:04 info: Token decoded successfully: {"unique_name":"Tokyo","nbf":1739422682,"exp":1739509082,"iat":1739422682}
+2025-02-13 16:54:17 info: Token decoded successfully: {"unique_name":"Tokyo","nbf":1739422682,"exp":1739509082,"iat":1739422682}
+2025-02-13 17:00:09 info: Token decoded successfully: {"unique_name":"Tokyo","nbf":1739422682,"exp":1739509082,"iat":1739422682}
+2025-02-13 17:00:27 info: Token decoded successfully: {"unique_name":"Tokyo","nbf":1739422682,"exp":1739509082,"iat":1739422682}
+2025-02-13 17:04:40 info: Token decoded successfully: {"unique_name":"Tokyo","nbf":1739422682,"exp":1739509082,"iat":1739422682}
+2025-02-14 12:11:10 info: Certificates loaded successfully.
+2025-02-14 12:11:10 info: Server running on port 3000
+2025-02-14 12:11:16 error: Token verification error
+2025-02-14 12:12:05 info: Token decoded successfully: {"unique_name":"Tokyo","nbf":1739510330,"exp":1739596730,"iat":1739510330}
+2025-02-14 12:12:40 error: Token verification error
+2025-02-14 12:12:53 info: Token decoded successfully: {"unique_name":"Tokyo","nbf":1739510330,"exp":1739596730,"iat":1739510330}
+2025-02-14 12:21:58 info: Certificates loaded successfully.
+2025-02-14 12:21:58 info: Server running on port 3000
+2025-02-14 12:22:25 info: Token decoded successfully: {"unique_name":"Tokyo","nbf":1739510330,"exp":1739596730,"iat":1739510330}
+2025-02-14 12:35:13 info: Certificates loaded successfully.
+2025-02-14 12:35:13 info: Server running on port 3000
+2025-02-14 12:35:17 info: Token decoded successfully: {"unique_name":"Tokyo","nbf":1739510330,"exp":1739596730,"iat":1739510330}
+2025-02-14 12:35:39 info: Token decoded successfully: {"unique_name":"Tokyo","nbf":1739510330,"exp":1739596730,"iat":1739510330}
+2025-02-14 12:36:58 info: Token decoded successfully: {"unique_name":"Tokyo","nbf":1739510330,"exp":1739596730,"iat":1739510330}
+2025-02-14 12:38:02 info: Token decoded successfully: {"unique_name":"Tokyo","nbf":1739510330,"exp":1739596730,"iat":1739510330}
+2025-02-14 12:38:20 info: Token decoded successfully: {"unique_name":"Tokyo","nbf":1739510330,"exp":1739596730,"iat":1739510330}
+2025-02-14 17:51:58 info: Certificates loaded successfully.
+2025-02-14 17:51:58 info: Server running on port 3000
+2025-02-14 17:52:15 info: Token decoded successfully: {"unique_name":"Tokyo","nbf":1739510330,"exp":1739596730,"iat":1739510330}
+2025-02-14 17:52:58 info: Token decoded successfully: {"unique_name":"Tokyo","nbf":1739510330,"exp":1739596730,"iat":1739510330}
+2025-03-12 18:06:55 info: Certificates loaded successfully.
+2025-03-12 18:06:55 info: Server running on port 3000
+2025-04-14 16:33:02 info: Certificates loaded successfully.
+2025-04-14 16:33:02 info: Server running on port 3000
+2025-09-08 07:22:36 info: Certificates loaded successfully.
+2025-09-08 07:22:36 info: Server running on port 3000
+2025-09-08 07:33:11 error: Token verification error
+2025-09-08 07:34:40 warn: Access Denied. No token provided.
+2025-09-08 07:45:45 warn: Access Denied. No token provided.
+2025-09-08 07:46:04 info: Token decoded successfully: {"username":"Jarvis","iat":1757297712,"exp":1757384112}
+2025-09-08 07:46:58 info: Token decoded successfully: {"username":"Jarvis","iat":1757297712,"exp":1757384112}

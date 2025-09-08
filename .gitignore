@@ -1,0 +1,13 @@
+node_modules/
+dist/
+.env
+# security
+JWT_SECRET/
+JWT_SECRET.txt
+
+# logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+logs/
+*.log

@@ -1431,3 +1431,9 @@
 2025-09-08 07:45:45 warn: Access Denied. No token provided.
 2025-09-08 07:46:04 info: Token decoded successfully: {"username":"Jarvis","iat":1757297712,"exp":1757384112}
 2025-09-08 07:46:58 info: Token decoded successfully: {"username":"Jarvis","iat":1757297712,"exp":1757384112}
+2025-09-08 10:32:32 info: ✅ Database connected to MongoDB at mongodb://localhost:27017/Node
+2025-09-08 10:32:47 error: Token verification error
+2025-09-08 10:33:05 info: Token decoded successfully: {"username":"Jarvis","iat":1757307775,"exp":1757394175}
+2025-09-08 10:33:15 info: Token decoded successfully: {"username":"Jarvis","iat":1757307775,"exp":1757394175}
+2025-09-08 10:33:17 info: Token decoded successfully: {"username":"Jarvis","iat":1757307775,"exp":1757394175}
+2025-09-08 11:44:25 info: Token decoded successfully: {"username":"Jarvis","iat":1757307775,"exp":1757394175}
